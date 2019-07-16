@@ -35,17 +35,16 @@ body {margin:0;}
   <a href="#"><i class="fa fa-search"></i></a> 
   <a href="#"><i class="fa fa-envelope"></i></a> 
   <a href="#"><i class="fa fa-globe"></i></a>
-  <a href="#"><i class="fa fa-trash"></i></a> 
 </div>
 
 </body>
 </html> 
 
 This is a test website. 
-<Runs realtime simulation for port everglades area>
+Runs realtime simulation for port everglades area
 <description description description description >
 <description description description description >
 
 <img align="center" src="waterlevel_filtered_hycom_narr_2018.jpg" height="660">
 
-add add add add
+
