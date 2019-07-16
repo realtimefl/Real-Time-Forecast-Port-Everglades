@@ -45,6 +45,6 @@ This is a test website.
 <description description description description >
 <description description description description >
 
-<img align="left" src="waterlevel_filtered_hycom_narr_2018.jpg" height="660">
+<img align="top" src="waterlevel_filtered_hycom_narr_2018.jpg" height="660">
 
 
