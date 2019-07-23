@@ -45,6 +45,6 @@ This is a test website.
 <description description description description >
 <description description description description >
 
-<img align="center" src="domainb.jpg" height=".5">
+<img align="center" src="domainb.JPG" height=".5">
 
 
