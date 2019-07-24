@@ -23,11 +23,11 @@ Click to see simulation data at this station
 
 
   <a href="map.JPG">
-     <img src="gmap4.JPG" width="250" align="center">
+     <img src="gmap4.JPG" width="200" align="center">
   </a> 
 
   <a href="c24.JPG">
-     <img src="c24.JPG" width="200" align="left">
+     <img src="c24.JPG" width="180" align="left">
  </a>
   
 </html>
