@@ -23,7 +23,7 @@ Click <a href="http://www.yahoo.com" target="_blank">here </a> to see simulation
 </ul>
 
 <a href="map.JPG">
- <img src="map.JPG" width="150" >
+   <img src="map.JPG" width="150" >
 </a> 
  
 </html>
