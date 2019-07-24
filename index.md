@@ -4,7 +4,7 @@
   <h2>Port Everglades</h2>
 </div> 
 <p>
-Realtime simulation for port everglades area. Click on station names to see simulation data at these stations. 
+Realtime simulation for port everglades region. Click on station names to see simulation data at these stations. 
 </p>
  
 <ul>
