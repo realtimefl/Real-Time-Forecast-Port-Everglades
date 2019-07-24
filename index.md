@@ -17,9 +17,9 @@ Click <a href="http://www.yahoo.com" target="_blank">here </a> to see simulation
 </p>
 <ul>
  <li><a href="http://www.yahoo.com" target="_blank">port everglades station</a></li>
- <li>hillsboros station</li>
- <li>north point</li>
- <li>south point </li>
+ <li><a href="http://www.yahoo.com" target="_blank">hillsboro station</a></li>
+ <li><a href="http://www.yahoo.com" target="_blank">north station</a></li>
+ <li><a href="http://www.yahoo.com" target="_blank">south everglades station</a></li>
 </ul>
 
 
