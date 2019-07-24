@@ -24,7 +24,7 @@ Click <a href="http://www.yahoo.com" target="_blank">here </a> to see simulation
 
 
   <a href="map.JPG">
-     <img src="map.JPG" width="200" align="center">
+     <img src="map.JPG" width="220" align="center">
   </a> 
 
   <a href="c24.JPG">
