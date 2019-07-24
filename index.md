@@ -22,12 +22,15 @@ Click <a href="http://www.yahoo.com" target="_blank">here </a> to see simulation
  <li>south point </li>
 </ul>
 
-<aside>
+
   <a href="map.JPG">
-     <img src="map.JPG" width="180" align="right">
+     <img src="map.JPG" width="200" align="left">
   </a> 
-</aside>
- 
+
+   <a href="a24.JPG">
+     <img src="a24.JPG" width="160" align="right">
+  </a>
+  
 </html>
 
 
