@@ -28,7 +28,7 @@ Click <a href="http://www.yahoo.com" target="_blank">here </a> to see simulation
   </a> 
 
   <a href="c24.JPG">
-     <img src="c24.JPG" width="160" align="left">
+     <img src="c24.JPG" width="160" align="right">
  </a>
   
 </html>
