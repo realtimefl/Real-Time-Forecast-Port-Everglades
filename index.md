@@ -19,7 +19,7 @@ Realtime simulation for port everglades region. Click on station names to see si
   </a> 
 
   <a href="c24.JPG">
-     <img src="c24.JPG" width="200" align="right">
+     <img src="c24.JPG" width="201" align="right">
  </a>
   
 </html>
