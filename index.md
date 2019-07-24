@@ -15,7 +15,7 @@ Click <a href="http://www.yahoo.com">here</a> to see simulation data at this sta
 
 </p>
 <ul>
- <li>port everglades</li>
+ <li>Click <a href="http://www.yahoo.com">here</a> to see simulation data at this station.</li>
  <li>hillsboro station</li>
  <li>north point</li>
  <li>south point </li>
