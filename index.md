@@ -14,13 +14,12 @@ Runs realtime simulation for port everglades area
 Click to see simulation data at this station 
 
 </p>
-<ol>
- <li><a href="domainb.JPG" target="_blank">port evergladesS station</a></li>
- <li><a href="http://www.yahoo.com" target="_blank">hillsboro station</a></li>
- <li><a href="http://www.yahoo.com" target="_blank">north station</a></li>
- <li><a href="http://www.yahoo.com" target="_blank">south everglades station</a></li>
-</ol>
-
+<ul>
+ <li><a href="domainb.JPG" target="_blank"> South Port Everglades (A)</a></li>
+ <li><a href="http://www.yahoo.com" target="_blank"> Port Everglades Inlet (B)</a></li>
+ <li><a href="http://www.yahoo.com" target="_blank"> New River (C)</a></li>
+ <li><a href="http://www.yahoo.com" target="_blank"> Hillsboro station (D)</a></li>
+</ul>
 
   <a href="map.JPG">
      <img src="gmap4.JPG" width="320" align="center">
