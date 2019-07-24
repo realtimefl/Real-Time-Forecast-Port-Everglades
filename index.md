@@ -17,7 +17,7 @@ Runs realtime simulation for port everglades area
 </p>
 <ul>
  <li><a
-        <strong>href="https://www.google.com/"</strong>
+        href="https://www.google.com/">
         </a></li>
  <li>hillsboro station</li>
  <li>north point</li>
