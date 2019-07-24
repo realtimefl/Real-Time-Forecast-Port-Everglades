@@ -14,12 +14,12 @@ Runs realtime simulation for port everglades area
 Click to see simulation data at this station 
 
 </p>
-<ul>
+<ol>
  <li><a href="domainb.JPG" target="_blank">port evergladesS station</a></li>
  <li><a href="http://www.yahoo.com" target="_blank">hillsboro station</a></li>
  <li><a href="http://www.yahoo.com" target="_blank">north station</a></li>
  <li><a href="http://www.yahoo.com" target="_blank">south everglades station</a></li>
-</ul>
+</ol>
 
 
   <a href="map.JPG">
