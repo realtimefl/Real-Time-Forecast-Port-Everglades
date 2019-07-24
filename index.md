@@ -1,19 +1,12 @@
 
-Thiss is a tests website. tundss
-Runs realtime simulation for port everglades area
-<description description description descriptions >
-<description description description description >
-
 <html>  
- <div style="background-color:lightblue">
-  <h3>This iss aa heading</h3>
-  <p>This is a paragraph.</p>
+ <div style="background-color:green">
+  <h2>Port Everglades</h2>
 </div> 
 <p>
-  
-Click to see simulation data at this station 
-
+Realtime simulation for port everglades area. Click on station names to see simulation data at these stations. 
 </p>
+ 
 <ul>
  <li><a href="domainb.JPG" target="_blank"> South Port Everglades (A)</a></li>
  <li><a href="http://www.yahoo.com" target="_blank"> Port Everglades Inlet (B)</a></li>
