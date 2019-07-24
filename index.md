@@ -21,7 +21,7 @@ Click <a href="http://www.yahoo.com" target="_blank">here </a> to see simulation
  <li>north point</li>
  <li>south point </li>
 </ul>
- <img src="map.JPG" width="10">
+ <img src="map.JPG" width="100">
 </html>
 
 
