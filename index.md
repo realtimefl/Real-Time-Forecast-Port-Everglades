@@ -1,6 +1,6 @@
 
 <html>  
- <div style="background-color:green">
+ <div>
   <h2>Port Everglades</h2>
 </div> 
 <p>
