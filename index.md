@@ -26,7 +26,7 @@ Click to see simulation data at this station
   </a> 
 
   <a href="c24.JPG">
-     <img src="c24.JPG" width="201" align="right">
+     <img src="c24.JPG" width="200" align="right">
  </a>
   
 </html>
