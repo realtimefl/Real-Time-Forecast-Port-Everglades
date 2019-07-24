@@ -15,4 +15,11 @@ Runs realtime simulation for port everglades area
   <img src="c24.JPG" alt="Smiley face" align="right">
   
 </p>
+<ul>
+ <li>port everglades station</li>
+ <li>hillsboro station</li>
+ <li>north point</li>
+ <li>south point </li>
+</ul>
+
 </html>
