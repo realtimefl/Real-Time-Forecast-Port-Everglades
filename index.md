@@ -21,7 +21,7 @@ Click to see simulation data at this station
  <li><a href="http://www.yahoo.com" target="_blank"> Hillsboro station (D)</a></li>
 </ul>
 
-  <a href="map.JPG">
+  <a href="gmap4.JPG">
      <img src="gmap4.JPG" width="299" align="center">
   </a> 
 
