@@ -8,10 +8,10 @@ Realtime simulation for port everglades region. Click on station names to see mo
 </p>
  
 <ul>
- <li><a href="domainb.JPG" target="_blank"> South Port Everglades (A)</a></li>
- <li><a href="waterlevel_model_2018.jpg" target="_blank"> Port Everglades Inlet (B)</a></li>
- <li><a href="http://www.yahoo.com" target="_blank"> New River (C)</a></li>
- <li><a href="http://www.yahoo.com" target="_blank"> Hillsboro station (D)</a></li>
+ <li><a href="waterlevel_noaa_port.jpg" target="_blank"> South Port Everglades (A)</a></li>
+ <li><a href="waterlevel_everglades_inlet.jpg" target="_blank"> Port Everglades Inlet (B)</a></li>
+ <li><a href="waterlevel_newriver.jpg" target="_blank"> New River (C)</a></li>
+ <li><a href="waterlevel_hillsboro_inlet.jpg" target="_blank"> Hillsboro station (D)</a></li>
 </ul>
 
   <a href="gmap4.JPG">
