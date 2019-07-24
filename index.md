@@ -15,7 +15,7 @@ Click to see simulation data at this station
 
 </p>
 <ul>
- <li><a href="http://www.yahoo.com" target="_blank">port everglades station</a></li>
+ <li><a href="domainb.JPG" target="_blank">port everglades station</a></li>
  <li><a href="http://www.yahoo.com" target="_blank">hillsboro station</a></li>
  <li><a href="http://www.yahoo.com" target="_blank">north station</a></li>
  <li><a href="http://www.yahoo.com" target="_blank">south everglades station</a></li>
