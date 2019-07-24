@@ -13,7 +13,7 @@ Runs realtime simulation for port everglades area
   
   <img src="map.JPG" alt="Smiley face" align="left"> 
 
-    <a href="https://www.google.com/" target="_blank">
+  <a href="https://www.google.com/" target="_blank">
         </a>
 </p>
 <ul>
