@@ -9,6 +9,6 @@ Runs realtime simulation for port everglades area
   This is some text. 
   <img src="map.JPG" alt="Smiley face" align="left"> 
   <img src="c24.JPG" alt="Smiley face" align="right">
-  This is some text.
+  This is some texts.
 </p>
 </html>
