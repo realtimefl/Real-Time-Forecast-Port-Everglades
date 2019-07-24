@@ -1,31 +1,8 @@
 
 <html>  
- <div>
-  <h2>Port Everglades</h2>
-</div> 
-<p>
-Realtime simulation for port everglades region. <strong> Click on station names </strong> to see model data at these following stations. Model result has been compared at South Port Everglades station (A) as NOAA buoy is placed here.
-</p>
- 
-<ul>
- <li><a href="waterlevel_noaa_port.jpg" target="_blank"> South Port Everglades (A)</a></li>
- <li><a href="waterlevel_everglades_inlet.jpg" target="_blank"> Port Everglades Inlet (B)</a></li>
- <li><a href="waterlevel_newriver.jpg" target="_blank"> New River (C)</a></li>
- <li><a href="waterlevel_hillsboro_inlet.jpg" target="_blank"> Hillsboro station (D)</a></li>
-</ul>
-
-  <a href="gmap4.JPG">
-     <img src="gmap4.JPG" width="299" align="center">
-  </a> 
-
-  <a href="c24.JPG">
-     <img src="c24.JPG" width="201" align="right">
- </a>
+ <body>
   
-</html>
-
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 body {margin:0;}
@@ -54,16 +31,40 @@ body {margin:0;}
   background-color: #4CAF50;
 }
 </style>
-<body>
 
 <div class="icon-bar">
   <a class="active" href="#"><i class="fa fa-home"></i></a> 
   <a href="#"><i class="fa fa-search"></i></a> 
   <a href="#"><i class="fa fa-envelope"></i></a> 
   <a href="#"><i class="fa fa-globe"></i></a>
-</div>
+</div> 
+  
+  
+  
+ <div>
+  <h2>Port Everglades</h2>
+</div> 
+<p>
+Realtime simulation for port everglades region. <strong> Click on station names </strong> to see model data at these following stations. Model result has been compared at South Port Everglades station (A) as NOAA buoy is placed here.
+</p>
+ 
+<ul>
+ <li><a href="waterlevel_noaa_port.jpg" target="_blank"> South Port Everglades (A)</a></li>
+ <li><a href="waterlevel_everglades_inlet.jpg" target="_blank"> Port Everglades Inlet (B)</a></li>
+ <li><a href="waterlevel_newriver.jpg" target="_blank"> New River (C)</a></li>
+ <li><a href="waterlevel_hillsboro_inlet.jpg" target="_blank"> Hillsboro station (D)</a></li>
+</ul>
 
-</body>
-</html> 
+  <a href="gmap4.JPG">
+     <img src="gmap4.JPG" width="299" align="center">
+  </a> 
+
+  <a href="c24.JPG">
+     <img src="c24.JPG" width="201" align="right">
+ </a>
+ </body> 
+</html>
+
+
 
 
