@@ -4,7 +4,7 @@
   <h2>Port Everglades</h2>
 </div> 
 <p>
-Realtime simulation for port everglades region. Click on station names to see model data at these stations. 
+Realtime simulation for port everglades region. Click on station names to see model data at these stations. Model result has been compared at South Port Everglades station (A) as NOAA buoy is placed here.
 </p>
  
 <ul>
