@@ -19,7 +19,7 @@ body {margin:0;}
   text-align: center;
   padding: 12px 0;
   transition: all 0.3s ease;
-  color: blue;
+  color: white;
   font-size: 36px;
 }
 
