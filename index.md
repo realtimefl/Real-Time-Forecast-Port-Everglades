@@ -16,7 +16,7 @@ Runs realtime simulation for port everglades area
   
 </p>
 <ul>
- <li>port everglades station</li>
+ <li><strong>port everglades station</strong></li>
  <li>hillsboro station</li>
  <li>north point</li>
  <li>south point </li>
