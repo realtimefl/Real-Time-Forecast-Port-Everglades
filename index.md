@@ -24,11 +24,11 @@ Click <a href="http://www.yahoo.com" target="_blank">here </a> to see simulation
 
 
   <a href="map.JPG">
-     <img src="map.JPG" width="180" align="left">
+     <img src="map.JPG" width="200" align="center">
   </a> 
 
   <a href="c24.JPG">
-     <img src="c24.JPG" width="160" align="center">
+     <img src="c24.JPG" width="160" align="left">
  </a>
   
 </html>
