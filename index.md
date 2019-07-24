@@ -11,7 +11,7 @@ Runs realtime simulation for port everglades area
 </div> 
 <p>
   
-Click <a href="http://www.yahoo.com">here to see simulation data at this station </a>
+Click <a href="http://www.yahoo.com" target="_blank">here to see simulation data at this station </a>
 
 </p>
 <ul>
