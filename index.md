@@ -13,12 +13,11 @@ Runs realtime simulation for port everglades area
   
   <img src="map.JPG" alt="Smiley face" align="left"> 
 
-  
+    <a href="https://www.google.com/" target="_blank">
+        </a>
 </p>
 <ul>
- <li><a
-        href="https://www.google.com/">
-        </a></li>
+ <li>port everglades</li>
  <li>hillsboro station</li>
  <li>north point</li>
  <li>south point </li>
