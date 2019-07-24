@@ -11,10 +11,8 @@ Runs realtime simulation for port everglades area
 </div> 
 <p>
   
-  <img src="map.JPG" alt="Smiley face" align="left"> 
- gahhls. gahlj;hj holreuoiyip;
-  <a href="https://www.google.com/" target="_blank">
-        </a>
+Click <a href="http://www.yahoo.com">here</a> to go to yahoo.
+
 </p>
 <ul>
  <li>port everglades</li>
