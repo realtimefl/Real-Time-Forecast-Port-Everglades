@@ -37,7 +37,7 @@ body {margin:0;}
   <a href="#"><i class="fa fa-search"></i></a> 
   <a href="#"><i class="fa fa-envelope"></i></a> 
   <a href="#"><i class="fa fa-globe"></i></a>
-  <a href="AbouT Us"></a>
+  <a href="AbouT US"></a>
 </div> 
   
   
@@ -54,6 +54,7 @@ Realtime simulation for port everglades region. <strong> Click on station names 
  <li><a href="waterlevel_evergladesinlet.jpg" target="_blank"> Port Everglades Inlet (B)</a></li>
  <li><a href="waterlevel_plantriver.jpg" target="_blank"> New River (C)</a></li>
  <li><a href="waterlevel_hillsboroinlet.jpg" target="_blank"> Hillsboro station (D)</a></li>
+ 
 </ul>
 
   <a href="gmap4.JPG">
