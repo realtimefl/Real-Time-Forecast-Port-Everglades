@@ -10,7 +10,6 @@ git push -u origin master
 
 # use 'git pull origin master' command if 'error: failed to push some refs to ... ' appears
 
-echo copying files
 
 cp -r /media/ahsan/Windows/Data_sc/everglades/plot/waterlevel_evergladesinlet.jpg  /media/ahsan/Windows/Data_sc/everglades/github/PortEverglades-master
 
@@ -20,10 +19,7 @@ cp -r /media/ahsan/Windows/Data_sc/everglades/plot/waterlevel_plantriver.jpg  /m
 
 cp -r /media/ahsan/Windows/Data_sc/everglades/plot/waterlevel_porteverglades.jpg  /media/ahsan/Windows/Data_sc/everglades/github/PortEverglades-master
 
-echo updating github
 
-git init 
-git pull origin master
 git add .
 git commit -m "update commit"
 git push -u origin master
