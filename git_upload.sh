@@ -1,5 +1,6 @@
 
 git init
+git pull origin master 
 #git remote add origin https://github.com/realtimefl/PortEverglades.git
 git add .
 git commit -m "update commit"
