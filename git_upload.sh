@@ -1,6 +1,6 @@
 
 git init
-git remote add origin https://github.com/realtimefl/test1.git
+git remote add origin https://github.com/realtimefl/PortEverglades.git
 git add .
-git commit -m "first commit"
+git commit -m "update commit"
 git push -u origin master
