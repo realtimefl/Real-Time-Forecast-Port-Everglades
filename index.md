@@ -37,7 +37,7 @@ body {margin:0;}
   <a href="#"><i class="fa fa-search"></i></a> 
   <a href="#"><i class="fa fa-envelope"></i></a> 
   <a href="#"><i class="fa fa-globe"></i></a>
-  <a href="About Us"></a>
+  <a href="AbouT Us"></a>
 </div> 
   
   
