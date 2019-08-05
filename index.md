@@ -50,10 +50,10 @@ Realtime simulation for port everglades region. <strong> Click on station names 
 </p>
  
 <ul>
- <li><a href="waterlevel_noaa_port.jpg" target="_blank"> South Port Everglades (A)</a></li>
- <li><a href="waterlevel_everglades_inlet.jpg" target="_blank"> Port Everglades Inlet (B)</a></li>
- <li><a href="waterlevel_newriver.jpg" target="_blank"> New River (C)</a></li>
- <li><a href="waterlevel_hillsboro_inlet.jpg" target="_blank"> Hillsboro station (D)</a></li>
+ <li><a href="waterlevel_porteverglades.jpg" target="_blank"> South Port Everglades (A)</a></li>
+ <li><a href="waterlevel_evergladesinlet.jpg" target="_blank"> Port Everglades Inlet (B)</a></li>
+ <li><a href="waterlevel_plantriver.jpg" target="_blank"> New River (C)</a></li>
+ <li><a href="waterlevel_hillsboroinlet.jpg" target="_blank"> Hillsboro station (D)</a></li>
 </ul>
 
   <a href="gmap4.JPG">
