@@ -57,7 +57,7 @@ Realtime simulation for port everglades region. <strong> Click on station names 
 </ul>
 
   <a href="gmap4.JPG">
-     <img src="gmap4.JPG" width="299" align="center">
+     <img src="gmap4.JPG" width="201" align="center">
   </a> 
 
   <a href="c24.JPG">
