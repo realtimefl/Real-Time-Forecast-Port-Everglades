@@ -12,13 +12,13 @@ git push -u origin master
 
 echo copying files
 
-cp -r /media/ahsan/Windows/Data_sc/everglades/plot/waterlevel_evergladesinlet.jpg  /media/ahsan/Windows/Data_sc/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/waterlevel_evergladesinlet.jpg  /home/admin/everglades/github/PortEverglades-master
 
-cp -r /media/ahsan/Windows/Data_sc/everglades/plot/waterlevel_hillsboroinlet.jpg  /media/ahsan/Windows/Data_sc/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/waterlevel_hillsboroinlet.jpg  /home/admin/everglades/github/PortEverglades-master
 
-cp -r /media/ahsan/Windows/Data_sc/everglades/plot/waterlevel_plantriver.jpg  /media/ahsan/Windows/Data_sc/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/waterlevel_plantriver.jpg  /home/admin/everglades/github/PortEverglades-master
 
-cp -r /media/ahsan/Windows/Data_sc/everglades/plot/waterlevel_porteverglades.jpg  /media/ahsan/Windows/Data_sc/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/waterlevel_porteverglades.jpg  /home/admin/everglades/github/PortEverglades-master
 
 echo updating github
 
