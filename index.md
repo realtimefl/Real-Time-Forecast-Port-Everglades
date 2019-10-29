@@ -1,12 +1,7 @@
 
 <html>  
  <body>
-  
-
-
-
-  
-  
+   
   
  <div>
   <h1>Port Everglades</h1>
