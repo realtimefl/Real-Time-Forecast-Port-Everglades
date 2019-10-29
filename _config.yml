@@ -1,8 +1,8 @@
 theme: jekyll-theme-architect
 title: Real Time Forecast: Delft3D Hydrodynamic Mode
-author: Peyman Taeb
-email: FL-ASGS@fit.edu
-description: East Central Coast, Indian River Lagoon, and Brevard County
+author: Ahsan Habib
+email: mhabib2014@my.fit.edu
+description: Port Everglades, FL
 favicon:     "ECFL-IRL/logo/FIT_logo.jpg"
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
