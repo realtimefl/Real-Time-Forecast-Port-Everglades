@@ -39,7 +39,7 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
 </div>
 
   <div class="column right">
-    <h2>Contributors</h2>
+    <h3>Contributors</h3>
     <p> Ahsan Habib and Gary Zarillo </p>
   </div>
 </body>
