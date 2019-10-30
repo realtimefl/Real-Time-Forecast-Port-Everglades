@@ -28,7 +28,7 @@ Realtime simulation for port everglades region. <strong> Click on station names 
  </a>
  
  <div>
-  <h1>contact list </h1>
+  <h1>contact lists </h1>
 </div> 
 
  </body> 
