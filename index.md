@@ -27,9 +27,25 @@
 
 <div class="row">
   <div class="column left">
-    <h2>Model Setup </h2>
-    <p>Model was setup using Delft3D hydrodynamic module</p>
-  </div>
+    
+    <h1>Model Setup </h1>
+    <p>
+Realtime simulation for port everglades region. <strong> Click on station names </strong> to see model data at these following stations. Model result has been compared at South Port Everglades station (A) as NOAA buoy is placed here.
+</p>
+ 
+<ul>
+ <li><a href="waterlevel_porteverglades.jpg" target="_blank"> South Port Everglades (A)</a></li>
+ <li><a href="waterlevel_evergladesinlet.jpg" target="_blank"> Port Everglades Inlet (B)</a></li>
+ <li><a href="waterlevel_plantriver.jpg" target="_blank"> New River (C)</a></li>
+ <li><a href="waterlevel_hillsboroinlet.jpg" target="_blank"> Hillsboro station (D)</a></li>
+ 
+</ul>
+
+  <a href="gmap4.JPG"> <img src="gmap4.JPG" width="201" align="center"></a> 
+  <a href="c24.JPG"> <img src="c24.JPG" width="201" align="right">
+ </a>
+ 
+</div>
   
   <div class="column right">
     <h2>Contributor</h2>
