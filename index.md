@@ -42,8 +42,8 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
     <p> </p>
     <h3>Developed by</h3>
     <p> Ahsan Habib </p>
-     <p> Dr. Gary Zarillo </p>
-  <p> Dept of Ocean Engineering and Marine Sciences </p>
+    <p> Dr. Gary Zarillo </p>
+    <p> Dept of Ocean Engineering and Marine Sciences </p>
   </div>
 </body>
 </html>
