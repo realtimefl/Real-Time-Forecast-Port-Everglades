@@ -22,7 +22,7 @@
 <div class="column left">
     <h1>Model Setup </h1>
     <p>
-Real time model developed using Delft3D hydrodynamic module. <strong> Click on station names </strong> to see model data at these following stations. Model result has been compared at South Port Everglades station (A) as NOAA buoy is placed here.
+Real time model developed using Delft3D hydrodynamic module. <strong> Click on station names </strong> to see model data at these following stations. Model results have been compared at South Port Everglades station (A) as NOAA buoy is placed here.
     </p>
  
 <ul>
