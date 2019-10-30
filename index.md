@@ -49,7 +49,7 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
  <style>
 .col {
   float: left;
-  padding: 2px;
+  padding: 3px;
 }
 
 .left {
