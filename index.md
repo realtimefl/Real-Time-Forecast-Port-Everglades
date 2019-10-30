@@ -17,8 +17,8 @@
 .right {
   width: 20%;
 }
-
 </style>
+
 <div class="column left">
     <h1>Model Setup </h1>
     <p>
@@ -34,7 +34,7 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
 
   <a href="gmap4.JPG"> <img src="gmap4.JPG" width="240" align="left"> </a> 
   <a href="c24.JPG"> <img src="c24.JPG" width="240" align="center"> </a> 
-  
+ 
 </div>
 
   <div class="column right">
@@ -43,13 +43,14 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
     <p> Dr. Gary Zarillo </p>
     <p> Dept of Ocean Engineering and Marine Sciences </p>
     <a href="Primary_horiz_tagline_crimson.png"> <img src="Primary_horiz_tagline_crimson.png" width="401" align="justify"> </a>
-    
-   <p>
-    </p>
+  </div>
+  
+  <div>
+  <h2>Boundaries</h2>
+  <p>OCean boundaries were setup using hycom data</p>
   </div>
   
 </body>
-
 </html>
 
 
