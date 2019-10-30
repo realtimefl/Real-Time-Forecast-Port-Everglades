@@ -4,7 +4,7 @@
 <head>
 <style>
 .column {
-  float: right;
+  float: left;
   padding: 6px;
 }
 
