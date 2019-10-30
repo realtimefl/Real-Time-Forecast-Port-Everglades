@@ -52,16 +52,16 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
   padding: 3px;
 }
 
-.left {
+.lf {
   width: 99%;
 }
 
-.right {
+.rt {
   width: 1%;
 }
 </style>
 
-  <div class="col left">
+  <div class="col lf">
   <h2>Boundaries</h2>
   <p>OCean side boundaries were setup using hycom </p>
   </div>
