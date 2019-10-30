@@ -3,7 +3,7 @@
  <body>
   
  
- <div class="twelve wide computer column"> 
+ <div class="twelve wide computer column"> ==$0
   <h1>Port Everglades</h1>
 
 
@@ -29,7 +29,7 @@ Realtime simulation for port everglades region. <strong> Click on station names 
  </div> 
  
  
-<div class="four wide computer column sidebar">
+<div class="four wide computer column sidebar"> == $0
  <h1> contact name </h1>
  
  </div>
