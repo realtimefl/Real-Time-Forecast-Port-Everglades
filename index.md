@@ -19,12 +19,11 @@
 .right {
   width: 25%;
 }
+
 </style>
 
 </head>
 <body>
-
-<h1>Model Setup</h1>
 
 <div class="row">
   <div class="column left">
