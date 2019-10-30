@@ -32,7 +32,7 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
 </ul>
 
   <a href="gmap4.JPG"> <img src="gmap4.JPG" width="240" align="left"> </a> 
-  <a href="c24.JPG"> <img src="c24.JPG" width="210" align="center"> </a> 
+  <a href="c24.JPG"> <img src="c24.JPG" width="211" align="center"> </a> 
   
 </div>
 
