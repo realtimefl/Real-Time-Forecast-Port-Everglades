@@ -47,7 +47,7 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
   
   
  <style>
-.column {
+.col {
   float: left;
   padding: 2px;
 }
@@ -61,7 +61,7 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
 }
 </style>
 
-  <div class="column left">
+  <div class="col left">
   <h2>Boundaries</h2>
   <p>OCean side boundaries were setup using hycom </p>
   </div>
