@@ -30,6 +30,8 @@ Realtime simulation for port everglades region. <strong> Click on station names 
  
  
 <div class="four wide computer column sidebar">
+ <h1> contact name </h1>
+ 
  </div>
  </body> 
 </html>
