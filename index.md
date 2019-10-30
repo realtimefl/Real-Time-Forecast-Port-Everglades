@@ -3,9 +3,9 @@
  <body>
   
  
- <div>
+ <div class="twelve wide computer column sidebar"> 
   <h1>Port Everglades</h1>
-</div> 
+
 
 <p>
 Realtime simulation for port everglades region. <strong> Click on station names </strong> to see model data at these following stations. Model results have been compared at South Port Everglades station (A) where NOAA buoy placed.
@@ -26,11 +26,11 @@ Realtime simulation for port everglades region. <strong> Click on station names 
   <a href="c24.JPG">
      <img src="c24.JPG" width="201" align="center">
  </a>
+ </div> 
  
- <div>
-  <h1>contact lists </h1>
-</div> 
-
+ 
+<div class="four wide computer column sidebar">
+ </div>
  </body> 
 </html>
 
