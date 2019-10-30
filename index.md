@@ -1,15 +1,11 @@
 
 <html>  
  <body>
- body {
-  background-color: lightblue;
-}
-
-h1 {
-  background-color: green;
-}  
+  
 <h1> Port Everglades </h1>
- 
+ h1 {
+  background-color: green;
+}
  </body> 
 </html>
 
