@@ -9,7 +9,7 @@
  
  
 <div class="four wide computer column sidebar"> 
- <h1> contact name </h1>
+ <h1> contact names </h1>
  
  </div>
  
