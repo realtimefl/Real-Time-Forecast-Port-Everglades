@@ -9,7 +9,6 @@
 
 .column {
   float: left;
-  padding: 10px;
 }
 
 .left {
