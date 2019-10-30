@@ -33,8 +33,8 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
  <li><a href="waterlevel_hillsboroinlet.jpg" target="_blank"> Hillsboro station (D)</a></li> 
 </ul>
 
-  <a href="gmap4.JPG"> <img src="gmap4.JPG" width="220" align="left"> </a> 
-  <a href="c24.JPG"> <img src="c24.JPG" width="201" align="center"> </a> 
+  <a href="gmap4.JPG"> <img src="gmap4.JPG" width="240" align="left"> </a> 
+  <a href="c24.JPG"> <img src="c24.JPG" width="210" align="center"> </a> 
   
 </div>
 
