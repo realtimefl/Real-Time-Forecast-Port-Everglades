@@ -7,7 +7,6 @@
   box-sizing: border-box;
 }
 
-/* Create two unequal columns that floats next to each other */
 .column {
   float: left;
   padding: 10px;
