@@ -45,27 +45,6 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
     <a href="Primary_horiz_tagline_crimson.png"> <img src="Primary_horiz_tagline_crimson.png" width="401" align="justify"> </a>
   </div>
   
-  
- <style>
-.col {
-  float: left;
-  padding: 3px;
-}
-
-.lf {
-  width: 99%;
-}
-
-.rt {
-  width: 1%;
-}
-</style>
-
-  <div class="col lf">
-  <h2>Boundaries</h2>
-  <p>OCean side boundaries were setup using hycom </p>
-  </div>
-  
 </body>
 </html>
 
