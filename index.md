@@ -18,6 +18,7 @@
   width: 20%;
 }
 
+</style>
 <div class="column left">
     <h1>Model Setup </h1>
     <p>
@@ -46,9 +47,10 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
     </p>
    <p></p>
   </div>
-  </style>
   
+  <div>
   <h1>Boundaries</h1>
+  </div>
 </body>
 
 
