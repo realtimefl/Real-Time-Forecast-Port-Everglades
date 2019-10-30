@@ -13,11 +13,11 @@
 }
 
 .left {
-  width: 75%;
+  width: 80%;
 }
 
 .right {
-  width: 25%;
+  width: 20%;
 }
 
 </style>
@@ -28,7 +28,7 @@
 <div class="row">
   <div class="column left">
     <h2>Model Setup </h2>
-    <p>Some text..</p>
+    <p>Model was setup using Delft3D hydrodynamic module</p>
   </div>
   
   <div class="column right">
