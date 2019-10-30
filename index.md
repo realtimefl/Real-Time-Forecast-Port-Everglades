@@ -3,7 +3,7 @@
  <body>
   
  
- <div class="twelve wide computer column sidebar"> 
+ <div class="twelve wide computer column"> 
   <h1>Port Everglades</h1>
 
 
