@@ -45,7 +45,8 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
     <p>
     <a href="Primary_horiz_tagline_crimson.png"> <img src="Primary_horiz_tagline_crimson.png" width="299" align="left"> </a>
     </p>
-   <p></p>
+   <p>
+    </p>
   </div>
   
 </body>
