@@ -1,7 +1,7 @@
 
 <html>
   
-<head>
+
 <style>
 .column {
   float: left;
@@ -16,8 +16,6 @@
   width: 20%;
 }
 </style>
-
-</head>
 
 <body>
 <div class="column left">
