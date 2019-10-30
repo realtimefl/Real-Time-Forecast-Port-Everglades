@@ -39,7 +39,6 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
 
   <div class="column right">
    <a href="Primary_horiz_tagline_crimson.png"> <img src="Primary_horiz_tagline_crimson.png" width="300" align="left"> </a>
-  
     <h3>Developed by</h3>
     <p> Ahsan Habib </p>
     <p> Dr. Gary Zarillo </p>
