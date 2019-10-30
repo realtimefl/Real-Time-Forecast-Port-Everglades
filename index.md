@@ -28,11 +28,12 @@
 <h1>Model Setup</h1>
 
 <div class="row">
-  <div class="column left" style="background-color:#aaa;">
+  <div class="column left">
     <h2>Model Setup </h2>
     <p>Some text..</p>
   </div>
-  <div class="column right" style="background-color:#bbb;">
+  
+  <div class="column right">
     <h2>Contributor</h2>
     <p>Ahsan Habib and Gary Zarillo </p>
   </div>
