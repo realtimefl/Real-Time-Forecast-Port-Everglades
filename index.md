@@ -5,7 +5,7 @@
 <style>
 .column {
   float: left;
-  padding: 7px;
+  padding: 10px;
 }
 
 .left {
@@ -37,8 +37,9 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
 </div>
 
   <div class="column right">
-    <h3>Contributors</h3>
-    <p> Ahsan Habib and Dr. Gary Zarillo </p>
+    <h3>Developed by</h3>
+    <p> Ahsan Habib and Dr. Gary Zarillo
+  Department of Ocean Engineering and Marine Sciences </p>
   </div>
 </body>
 </html>
