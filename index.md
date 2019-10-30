@@ -4,6 +4,8 @@
 <head>
 <style>
 .column {
+  float: right;
+  padding: 5px;
 }
 
 .left {
@@ -37,7 +39,7 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
 </div>
 
   <div class="column right">
-    <h1>Contributors</h1>
+    <h2>Contributors</h2>
     <p> Ahsan Habib and Gary Zarillo </p>
   </div>
 </body>
