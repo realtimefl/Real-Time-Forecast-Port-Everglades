@@ -4,7 +4,6 @@
 <head>
 <style>
 .column {
-  float: left;
 }
 
 .left {
