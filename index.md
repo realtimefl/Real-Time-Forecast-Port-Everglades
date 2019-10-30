@@ -1,14 +1,50 @@
 
 
 <html>
- <div class="sixteen wide computer column">
-  <div class="ui stackable grid">
-   <div class="twelve wide computer column">
-     <h1>Real time datum</h1>
-      <div class="four wide computer column sidebar">
-       <h2>contacts info</h2>  
-    </div>
-   </div>
+  
+
+<style>
+.column {
+  float: left;
+  padding: 2px;
+}
+
+.left {
+  width: 80%;
+}
+
+.right {
+  width: 20%;
+}
+</style>
+
+<body>
+<div class="column left">
+    <h1>Model Setup </h1>
+    <p>
+Real time model developed using Delft3D hydrodynamic module. <strong> Click on station names </strong> to see model data at these following stations. Model results have been compared at South Port Everglades station (A) as NOAA buoy is placed here.
+    </p>
+ 
+<ul>
+ <li><a href="waterlevel_porteverglades.jpg" target="_blank"> South Port Everglades (A)</a></li>
+ <li><a href="waterlevel_evergladesinlet.jpg" target="_blank"> Port Everglades Inlet (B)</a></li>
+ <li><a href="waterlevel_plantriver.jpg" target="_blank"> New River (C)</a></li>
+ <li><a href="waterlevel_hillsboroinlet.jpg" target="_blank"> Hillsboro station (D)</a></li> 
+</ul>
+
+  <a href="gmap4.JPG"> <img src="gmap4.JPG" width="240" align="left"> </a> 
+  <a href="c24.JPG"> <img src="c24.JPG" width="241" align="center"> </a> 
+  
+</div>
+
+  <div class="column right">
+    <h3>Developed by</h3>
+    <p> Ahsan Habib </p>
+    <p>Dr. Gary Zarillo </p>
+  <p> Dept of Ocean Engineering and Marine Sciences </p>
   </div>
- </div>
+</body>
 </html>
+
+
+
