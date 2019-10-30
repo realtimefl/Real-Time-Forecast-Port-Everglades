@@ -1,12 +1,10 @@
 
 <html>
+  
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-
 .column {
   float: left;
-  padding: 10px;
 }
 
 .left {
@@ -16,12 +14,11 @@
 .right {
   width: 20%;
 }
-
 </style>
 
 </head>
-<body>
 
+<body>
 <div class="column left">
     <h1>Model Setup </h1>
     <p>
@@ -44,8 +41,6 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
     <h2>Contributors</h2>
     <p> Ahsan Habib and Gary Zarillo </p>
   </div>
-
-
 </body>
 </html>
 
