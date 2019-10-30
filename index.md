@@ -48,9 +48,6 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
    <p></p>
   </div>
   
-  <div>
-  <h1>Boundaries</h1>
-  </div>
 </body>
 
 
