@@ -63,7 +63,7 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
 
   <div class="column left">
   <h2>Boundaries</h2>
-  <p>OCean boundaries were setup using hycom </p>
+  <p>OCean side boundaries were setup using hycom </p>
   </div>
   
 </body>
