@@ -32,7 +32,7 @@
 </head>
 <body>
 
-<h2>Two Unequal Columns</h2>
+<h1>Model Setup</h1>
 
 <div class="row">
   <div class="column left" style="background-color:#aaa;">
