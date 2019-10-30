@@ -2,7 +2,8 @@
 
 <html>
   
-
+<body>
+  
 <style>
 .column {
   float: left;
@@ -18,7 +19,7 @@
 }
 </style>
 
-<body>
+
 <div class="column left">
     <h1>Model Setup </h1>
     <p>
@@ -48,9 +49,7 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
    <p></p>
   </div>
 </body>
-<body>
-  <h1>Boundary Conditions </h1>
-  </body>
+
 
 </html>
 
