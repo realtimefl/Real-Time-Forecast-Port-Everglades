@@ -11,7 +11,6 @@
 .column {
   float: left;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 .left {
@@ -21,14 +20,8 @@
 .right {
   width: 25%;
 }
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 </style>
+
 </head>
 <body>
 
@@ -36,12 +29,12 @@
 
 <div class="row">
   <div class="column left" style="background-color:#aaa;">
-    <h2>Column one</h2>
+    <h2>Model Setup </h2>
     <p>Some text..</p>
   </div>
   <div class="column right" style="background-color:#bbb;">
-    <h2>Column two</h2>
-    <p>Some text..</p>
+    <h2>Contributor</h2>
+    <p>Ahsan Habib and Gary Zarillo </p>
   </div>
 </div>
 
