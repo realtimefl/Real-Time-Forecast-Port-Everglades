@@ -44,13 +44,13 @@
   </div>
   
   <div class="column">
-   <h1>Parameters Predicted</h1>
-  <p> 
-   <li> Salinity </li>
-   <li> Temperature </li>
-   <li> Currents </li>
-   <li> Tidal constituents </li>
-   </p>
+  <h1>Parameters Predicted</h1>
+   <ul>
+    <li> Salinity </li>
+    <li> Temperature </li>
+    <li> Currents </li>
+    <li> Tidal constituents </li>
+   </ul>
   </div> 
   
   <div class="column">
