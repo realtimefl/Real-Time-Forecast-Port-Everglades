@@ -34,7 +34,7 @@
     <p> Ahsan Habib </p>
     <p> Dr. Gary Zarillo </p>
     <p> Dept of Ocean Engineering and Marine Sciences </p>
-    <a href="Primary_horiz_tagline_crimson.png"> <img src="Primary_horiz_tagline_crimson.png" width="500" align="justify"> </a>
+    <a href="Primary_horiz_tagline_crimson.png"> <img src="Primary_horiz_tagline_crimson.png" width="800" align="justify"> </a>
   </div>
 
   <div class="column">
