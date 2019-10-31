@@ -7,7 +7,7 @@
 <style>
 .column {
   float: left;
-  padding: 2px;
+  padding: 5px;
 }
 
 .left {
