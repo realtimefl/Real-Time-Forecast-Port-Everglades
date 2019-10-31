@@ -58,7 +58,7 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
   
   <div class="column">
    <h1>Plots</h1>
-    <p> <strong> Click on station names </strong> to see model data at these following stations. Model results have been compared at South Port Everglades station (A) where NOAA buoy is placed.
+    <p> Click on <strong> station names </strong> to see model data at these following stations. Model results have been compared at South Port Everglades station (A) where NOAA buoy is placed.
     </p>
  
 <ul>
