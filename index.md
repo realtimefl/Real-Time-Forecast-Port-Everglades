@@ -51,14 +51,14 @@
   
   <div class="column">
    <h1>Plots</h1>
-    <p> Click on <strong> station names </strong> to see model data at these following stations. Model result has been compared at South Port Everglades station (A) where NOAA buoy is placed.
+    <p> Click on the <strong> placemarks </strong> for timeseries at these following stations. 
     </p>
  
 <ul>
- <li><a href="waterlevel_porteverglades.jpg" target="_blank"> (A)South Port Everglades</a></li>
- <li><a href="waterlevel_evergladesinlet.jpg" target="_blank"> (B)Port Everglades Inlet</a></li>
- <li><a href="waterlevel_plantriver.jpg" target="_blank">(C)New River </a></li>
- <li><a href="waterlevel_hillsboroinlet.jpg" target="_blank"> (D)Hillsboro inlet</a></li> 
+ <li> (A)South Port Everglades </li>
+ <li> (B)Port Everglades Inlet </li>
+ <li> (C)New River </li>
+ <li> (D)Hillsboro inlet </li> 
 </ul> 
 
  <img src="gmap4.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname">
