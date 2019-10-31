@@ -57,8 +57,8 @@
 <ul>
  <li><a href="waterlevel_porteverglades.jpg" target="_blank"> (A)South Port Everglades</a></li>
  <li><a href="waterlevel_evergladesinlet.jpg" target="_blank"> (B)Port Everglades Inlet</a></li>
- <li><a href="waterlevel_plantriver.jpg" target="_blank"> (C)New River </a></li>
- <li><a href="waterlevel_hillsboroinlet.jpg" target="_blank"> (D)Hillsboro station</a></li> 
+ <li><a href="waterlevel_plantriver.jpg" target="_blank">(C)New River </a></li>
+ <li><a href="waterlevel_hillsboroinlet.jpg" target="_blank"> (D)Hillsboro inlet</a></li> 
 </ul> 
 
  <img src="gmap4.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname">
