@@ -54,7 +54,7 @@
   </div> 
   
   <div class="column">
-   <h1> Real Time Forecast Plots</h1>
+   <h1> Real Time Forecast</h1>
     <p> Click on the <strong> placemarks </strong> on map for timeseries at these following stations. 
     </p>
  
@@ -75,6 +75,8 @@
  </map>
 
   </div>  
+  <div class="column">
+   <a href="salinity_currentmap.avi"> <img src="salinity_currentmap.avi" width="800"> align="center"> </a>
   
  <div class="column">
    <h1> Model Validation</h1>
