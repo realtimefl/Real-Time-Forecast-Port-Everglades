@@ -47,7 +47,9 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
 
   <div class="column left">
   <h2>Boundary Condition</h2>
-  <p>Real time model developed using Delft3D hydrodynamic module. Click on station names to see model data at these following stations. Model results have been compared at South Port Everglades station (A) as NOAA buoy is placed here.</p>
+  <p>
+Real time model developed using Delft3D hydrodynamic module. Click on station names to see model data at these following stations. Model results have been compared at South Port Everglades station (A) as NOAA buoy is placed here.
+    .</p>
   </div>
   
 </body>
