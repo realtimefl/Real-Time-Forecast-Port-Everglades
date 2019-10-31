@@ -46,7 +46,7 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
   </div>
 
   <div class="column left">
-  <h2>Boundary Conditions</h2>
+  <h2>Boundary Condition</h2>
   </div>
   
 </body>
