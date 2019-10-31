@@ -78,7 +78,7 @@
   
  <div class="column">
    <h1> Model Validation</h1>
-   <p> Model results for waterlevel timeseries were compared with <a href="https://tidesandcurrents.noaa.gov/stationhome.html?id=8722956">NOAA buoy data</a> placed at south port everglades. There is good match between model results and NOAA buoy data for water level timeseries with small difference in amplitude but very good match between phases. Following figures show some comparison.
+   <p> Model results for waterlevel timeseries were compared with <a href="https://tidesandcurrents.noaa.gov/stationhome.html?id=8722956">NOAA buoy data</a> placed at south port everglades. There is a good match between model results and NOAA buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%.Following figures show some comparison.
     <a href="WL_PortEvGLds_mar2018.jpg"> <img src="WL_PortEvGLds_mar2018.jpg" width="800" align="justify"> </a> 
     <a href="Corr_hycom_March.jpg"> <img src="Corr_hycom_March.jpg" width="851" align="justify"> </a>      
    </p>
