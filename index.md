@@ -58,7 +58,15 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
   
   <div class="column">
    <h1>Plots</h1>
-    <p> 
+    <p> <strong> Click on station names </strong> to see model data at these following stations. Model results have been compared at South Port Everglades station (A) where NOAA buoy is placed.
+    </p>
+ 
+<ul>
+ <li><a href="waterlevel_porteverglades.jpg" target="_blank"> South Port Everglades (A)</a></li>
+ <li><a href="waterlevel_evergladesinlet.jpg" target="_blank"> Port Everglades Inlet (B)</a></li>
+ <li><a href="waterlevel_plantriver.jpg" target="_blank"> New River (C)</a></li>
+ <li><a href="waterlevel_hillsboroinlet.jpg" target="_blank"> Hillsboro station (D)</a></li> 
+</ul> 
      </p>
   </div>  
   
