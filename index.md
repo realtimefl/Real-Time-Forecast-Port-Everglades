@@ -24,7 +24,7 @@
    <p> Real time model developed using Delft3D hydrodynamic modul. 
     </p>
 
-  <a href="gmap4.JPG"> <img src="gmap6.JPG" width="250" align="justify"> </a> 
+  <a href="gmap4.JPG"> <img src="gmap6.JPG" width="260" align="justify"> </a> 
   <a href="c24.JPG"> <img src="c24.JPG" width="301" align="justify"> </a> 
  
 </div>
