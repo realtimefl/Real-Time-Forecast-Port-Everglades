@@ -60,7 +60,7 @@
  <li><a href="waterlevel_plantriver.jpg" target="_blank"> (C)New River </a></li>
  <li><a href="waterlevel_hillsboroinlet.jpg" target="_blank"> (D)Hillsboro station</a></li> 
 </ul> 
-     </p>
+     
   </div>  
   
    <div class="column">
