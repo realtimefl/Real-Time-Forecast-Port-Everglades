@@ -70,7 +70,7 @@
   </div>  
   
    <div class="column">
-   <h1>Model Validation</h1>
+   <h1> Model Validation</h1>
     <p> 
      </p>
   </div>  
