@@ -64,7 +64,10 @@
  <img src="gmap4.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname">
 
 <map name="mapname">
-    <area shape="rect" coords="221,590,279,550" href="waterlevel_hillsboroinlet.jpg" alt="alttext">
+    <area shape="rect" coords="202,586,228,635" href="waterlevel_porteverglades.jpg" alt="alttext">
+    <area shape="rect" coords="233,536,263,591" href="waterlevel_evergladesinlet.jpg" alt="alttext">
+    <area shape="rect" coords="191,480,217,529" href="waterlevel_plantriver.jpg" alt="alttext">
+    <area shape="rect" coords="278,2,304,51" href="waterlevel_hillsboroinlet.jpg" alt="alttext">
  </map>
 
   </div>  
