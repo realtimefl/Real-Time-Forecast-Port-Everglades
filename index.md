@@ -51,7 +51,7 @@
   
   <div class="column">
    <h1>Plots</h1>
-    <p> Click on the <strong> placemarks </strong> for timeseries at these following stations. 
+    <p> Click on the <strong> placemarks </strong> on map for timeseries at these following stations. 
     </p>
  
 <ul>
