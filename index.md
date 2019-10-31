@@ -46,7 +46,7 @@
   <div class="column">
   <h1>Parameters Predicted</h1>
    <ul>
-    <li> Salinity </li>
+    <li> Salinity</li>
     <li> Temperature </li>
     <li>Currents </li>
     <li> Tidal constituents </li>
