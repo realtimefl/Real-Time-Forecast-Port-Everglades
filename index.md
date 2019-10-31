@@ -21,7 +21,7 @@
 
 <div class="column left">
   <h1>Model Setup </h1>
-   <p> Real time model developed using Delft3D hydrodynamic modul. 
+   <p> We have developed numerical model using Delft3D, an open source, 3-dimensional, finite difference, hydrodynamic and sediment transport modeling system (https://oss.deltares.nl/web/delft3d). A curvilinear orthogonal grid was created with grid size ranging from 9 m in inlet to 385 in the coastal area.  The grid represents coastline from hillsboro inlet to south lake in hollywood beach.
     </p>
 
   <a href="gmap4.JPG"> <img src="gmap6.JPG" width="265" align="justify"> </a> 
