@@ -48,7 +48,7 @@
    <ul>
     <li> Salinity </li>
     <li> Temperature </li>
-    <li> Currents </li>
+    <li>Currents </li>
     <li> Tidal constituents </li>
    </ul>
   </div> 
