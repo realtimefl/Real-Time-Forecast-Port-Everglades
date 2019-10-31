@@ -58,7 +58,7 @@
  <li> (A)South Port Everglades </li>
  <li> (B)Port Everglades Inlet </li>
  <li> (C)New River </li>
- <li> (D)Hillsboro inlet </li> 
+ <li>(D)Hillsboro inlet </li> 
 </ul> 
 
  <img src="gmap4.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname">
