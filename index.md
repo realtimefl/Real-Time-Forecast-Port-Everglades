@@ -64,7 +64,7 @@
  <img src="gmap4.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname">
 
 <map name="mapname">
-    <area shape="rect" coords="221,590,279,550" href="gmap4.JPG" alt="alttext">
+    <area shape="rect" coords="221,590,279,550" href="waterlevel_hillsboroinlet.jpg" alt="alttext">
  </map>
 
   </div>  
