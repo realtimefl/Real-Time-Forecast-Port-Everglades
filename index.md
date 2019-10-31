@@ -25,7 +25,7 @@
     </p>
 
   <a href="gmap4.JPG"> <img src="gmap6.JPG" width="260" align="justify"> </a> 
-  <a href="c24.JPG"> <img src="c24.JPG" width="301" align="justify"> </a> 
+  <a href="c24.JPG"> <img src="c24.JPG" width="300" align="justify"> </a> 
  
 </div>
 
