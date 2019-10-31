@@ -3,7 +3,7 @@
 <html>  
 <body>
   
-<section> 
+ 
 <style>
 .column {
   float: left;
@@ -44,7 +44,10 @@ Real time model developed using Delft3D hydrodynamic module. <strong> Click on s
     <p> Dept of Ocean Engineering and Marine Sciences </p>
     <a href="Primary_horiz_tagline_crimson.png"> <img src="Primary_horiz_tagline_crimson.png" width="401" align="justify"> </a>
   </div>
- 
+
+  <div class="column left">
+  <h2>Boundary Conditions</h2>
+  </div>
   
 </body>
 </html>
