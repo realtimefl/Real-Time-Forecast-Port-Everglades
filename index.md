@@ -76,7 +76,7 @@
 
   </div>  
   <div class="column">
-   <a href="salinity_currentmap.avi"> <img src="salinity_currentmap.avi" width="800"> align="center"> </a>
+   <a href="salinity_currentmap.gif"> <img src="salinity_currentmap.avi" width="800"> align="center"> </a>
   
  <div class="column">
    <h1> Model Validation</h1>
