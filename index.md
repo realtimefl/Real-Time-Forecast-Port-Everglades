@@ -76,7 +76,7 @@
   </div>  
   
   <p>
-   <a href="salinity_currentmap.gif"> <img src="salinity_currentmap.gif" width="400" align="center"> </a>
+   <a href="salinity_currentmap.gif"> <img src="salinity_currentmap.gif" width="800" align="center"> </a>
    </p>
    
  <div class="column">
