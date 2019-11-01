@@ -73,11 +73,11 @@
     <area shape="rect" coords="191,480,217,529" href="waterlevel_plantriver.jpg" alt="alttext">
     <area shape="rect" coords="278,2,304,51" href="waterlevel_hillsboroinlet.jpg" alt="alttext">
  </map>
-
   </div>  
-  <div class="column">
+  
+  <p>
    <a href="salinity_currentmap.gif"> <img src="salinity_currentmap.gif" width="800" align="justify"> </a>
-   </div>
+   </p>
    
  <div class="column">
    <h1> Model Validation</h1>
