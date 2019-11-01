@@ -76,8 +76,9 @@
 
   </div>  
   <div class="column">
-   <a href="salinity_currentmap.gif"> <img src="salinity_currentmap.avi" width="800"> align="center"> </a>
-  
+   <a href="salinity_currentmap.gif"> <img src="salinity_currentmap.avi" width="800"> align="justify"> </a>
+   </div>
+   
  <div class="column">
    <h1> Model Validation</h1>
    <p> Model results for waterlevel timeseries were compared with <a href="https://tidesandcurrents.noaa.gov/stationhome.html?id=8722956">NOAA buoy data</a> placed at south port everglades. There is a good match between model results and NOAA buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%.Following figures show some comparison.
