@@ -20,6 +20,8 @@ cp -r /home/admin/everglades/plot/waterlevel_plantriver.jpg  /home/admin/evergla
 
 cp -r /home/admin/everglades/plot/waterlevel_porteverglades.jpg  /home/admin/everglades/github/PortEverglades-master
 
+cp -r /home/admin/everglades/plot/salinity_currentmap.gif  /home/admin/everglades/github/PortEverglades-master
+
 echo updating github
 
 git init 
