@@ -75,7 +75,7 @@
  </map>
   </div> 
   <p>
-  <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="500" align="justify"> </a>
+  <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="800" align="justify"> </a>
   </p>
 
    
