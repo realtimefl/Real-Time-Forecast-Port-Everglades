@@ -74,9 +74,10 @@
     <area shape="rect" coords="278,2,304,51" href="waterlevel_hillsboroinlet.jpg" alt="alttext">
  </map>
   </div> 
-  <p>
+  
+  <div class="column">
   <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="801" align="justify"> </a>
-  </p>
+  </div>
 
    
  <div class="column">
