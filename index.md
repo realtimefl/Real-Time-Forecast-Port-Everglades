@@ -76,7 +76,7 @@
   </div> 
   
   <div class="column">
-  <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="800" align="justify"> </a>
+  <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth" height="imgheight" align="left"> </a>
   </div>
 
    
