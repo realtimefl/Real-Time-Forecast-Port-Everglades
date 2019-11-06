@@ -77,7 +77,7 @@
   
   <div class="column">
   <p> Real time forecast for water elevetion and currents map in Port Everglades area (click on the animation for full screen view)
-  <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="1510"  align="left"> </a>
+  <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="left"> </a>
   </p>
   </div>
   
