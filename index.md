@@ -65,7 +65,7 @@
  <li> Hillsboro inlet (D) </li> 
 </ul> 
 
- <img src="gmap4.JPG" width="800" height="imgheight" alt="alttext" usemap="#mapname">
+ <img src="gmap4.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname">
 
 <map name="mapname">
     <area shape="rect" coords="202,586,228,635" href="waterlevel_porteverglades.jpg" alt="alttext">
