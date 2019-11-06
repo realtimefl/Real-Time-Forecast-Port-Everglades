@@ -65,7 +65,7 @@
  <li> Hillsboro inlet (D) </li> 
 </ul> 
 
- <img src="gmap4.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname">
+ <img src="gmap4.JPG" width="800" height="imgheight" alt="alttext" usemap="#mapname">
 
 <map name="mapname">
     <area shape="rect" coords="202,586,228,635" href="waterlevel_porteverglades.jpg" alt="alttext">
@@ -79,11 +79,11 @@
   <p> Real time forecast for water elevetion and currents map in Port Everglades area (click on the animation for full screen view)
   <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="1501"  align="left"> </a>
     </p>
+  </div>
+  
   <p align="center">
     <img src="waterlevel_currentmap.gif">
    </p>
-  </div>
-
    
  <div class="column">
    <h1> Model Validation</h1>
