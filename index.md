@@ -15,7 +15,7 @@
 }
 
 .right {
-  width: 20%;
+  width: 10%;
 }
 </style>
 
