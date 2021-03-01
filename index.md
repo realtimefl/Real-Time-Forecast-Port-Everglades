@@ -58,12 +58,6 @@
     <p> Click on the <strong> placemarks </strong> on map for timeseries at these following stations. 
     </p>
  
-<ul>
- <li> South Port Everglades (A) </li>
- <li> Port Everglades Inlet (B) </li>
- <li> New River (C)</li>
- <li> Hillsboro inlet (D) </li> 
-</ul> 
 
  <img src="gmap4.JPG" width="200" height="201" alt="alttext" usemap="#mapname">
 
