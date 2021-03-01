@@ -59,7 +59,7 @@
     </p>
  
 
- <img src="gmap4.JPG" width="200" height="201" alt="alttext" usemap="#mapname">
+ <img src="gmap4.JPG" width="600" height="600" alt="alttext" usemap="#mapname">
 
 <map name="mapname">
     <area shape="rect" coords="202,586,228,635" href="waterlevel_porteverglades.jpg" alt="alttext">
