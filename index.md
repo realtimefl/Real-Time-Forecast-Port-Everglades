@@ -57,9 +57,14 @@
    <h1> Real Time Forecast</h1>
     <p> Click on the <strong> placemarks </strong> on map for timeseries at these following stations. 
     </p>
- 
+<ul>
+ <li> South Port Everglades (A) </li>
+ <li> Port Everglades Inlet (B) </li>
+ <li> New River (C)</li>
+ <li> Hillsboro inlet (D) </li> 
+</ul> 
 
- <img src="gmap4.JPG" width="600" height="601" alt="alttext" usemap="#mapname">
+ <img src="gmap4.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname">
 
 <map name="mapname">
     <area shape="rect" coords="202,586,228,635" href="waterlevel_porteverglades.jpg" alt="alttext">
