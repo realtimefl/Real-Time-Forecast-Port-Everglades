@@ -3,7 +3,7 @@
 <html>  
 <body>
   
- 
+
 <style>
 .column {
   float: left;
