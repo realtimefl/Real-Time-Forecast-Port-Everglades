@@ -53,7 +53,7 @@
   </div> 
   
   <div class="column">
-   <h1> Real Time Forecast</h1>
+   <h1> Real Time Forecast </h1>
     <p> Click on the <strong> placemarks </strong> on map for timeseries at these following stations. 
     </p>
   
