@@ -24,8 +24,8 @@ cp -r /home/admin/everglades/plot/waterlevel_currentmap.gif  /home/admin/evergla
 
 echo updating github
 
-git init 
-git pull origin master
-git add .
-git commit -m "update commit"
-git push -u origin master
+#git init 
+#git pull origin master
+#git add .
+#git commit -m "update commit"
+#git push -u origin master
