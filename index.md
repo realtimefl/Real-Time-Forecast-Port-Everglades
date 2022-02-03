@@ -60,7 +60,7 @@
 <ul>
  <li> South Port Everglades(A)</li>
  <li> Port Everglades Inlet(B)</li>
- <li> New River(C)</li>
+ <li> New River(C) </li>
  <li> Hillsboro inlet (D) </li> 
 </ul> 
 
