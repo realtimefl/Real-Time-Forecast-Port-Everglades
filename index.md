@@ -42,8 +42,6 @@
   </p>
   </div>
   
- 
-  
   <div class="column">
   <h1>Parameters Predicted</h1>
    <ul>
