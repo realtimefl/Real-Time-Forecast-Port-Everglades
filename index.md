@@ -52,7 +52,7 @@
     <li>Currents</li>
     <li> Tidal constituents </li>
    </ul>
-    <iframe width="900" height="800" src="https://datastudio.google.com/embed/reporting/c1d00dd7-cb0e-4a2c-a114-5d16d1175a5a/page/6zXD" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <iframe width="900" height="800" src="https://datastudio.google.com/embed/reporting/c1d00dd7-cb0e-4a2c-a114-5d16d1175a5a/page/6zXD" frameborder="0" style="border:0" allowfullscreen> </iframe>
   </div> 
   
   <div class="column">
@@ -61,8 +61,8 @@
     </p>
   
 <ul>
- <li> South Port Everglades (A) </li>
- <li> Port Everglades Inlet (B) </li>
+ <li> South Port Everglades (A)</li>
+ <li> Port Everglades Inlet (B)</li>
  <li> New River (C)</li>
  <li> Hillsboro inlet (D) </li> 
 </ul> 
@@ -87,7 +87,7 @@
  <div class="column">
    <h1> Model Validation</h1>
    <p> Model results for water level timeseries were compared with data from <a href="https://tidesandcurrents.noaa.gov/stationhome.html?id=8722956">NOAA buoy</a> placed at south port everglades. There is a good match between model results and NOAA buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%. Following figures show these comparisons.
-    <a href="WL_PortEvGLds_mar2018.jpg"> <img src="WL_PortEvGLds_mar2018.jpg" width="800" align="left"> </a> 
+    <a href="WL_PortEvGLds_mar2018.jpg"> <img src="WL_PortEvGLds_mar2018.jpg" width="801" align="left"> </a> 
     <a href="Corr_hycom_March.jpg"> <img src="Corr_hycom_March.jpg" width="850" align="justify"> </a>      
    </p>
   </div>  
