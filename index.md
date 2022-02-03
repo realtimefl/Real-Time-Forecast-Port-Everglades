@@ -10,11 +10,11 @@
 }
 
 .left {
-  width: 80%;
+  width: 82%;
 }
 
 .right {
-  width: 20%;
+  width: 18%;
 }
 </style>
 
