@@ -54,6 +54,8 @@
    </ul>
   </div> 
   
+  <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/c1d00dd7-cb0e-4a2c-a114-5d16d1175a5a/page/6zXD" frameborder="0" style="border:0" allowfullscreen></iframe>
+  
   <div class="column">
    <h1> Real Time Forecast </h1>
     <p> Click on the <strong> placemarks </strong> on map for timeseries at these following stations. 
