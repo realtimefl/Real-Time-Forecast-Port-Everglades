@@ -30,7 +30,7 @@
 
   <div class="column right">
     <h3>Developed by</h3>
-    <p> Ahsan Habib </p>
+    <p> Md Ahsan Habib </p>
     <p> <a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo</a>  </p>
     <p> Dept of Ocean Engineering and Marine Sciences </p>
     <a href="Primary_horiz_tagline_crimson.png"> <img src="Primary_horiz_tagline_crimson.png" width="801" align="justify"> </a>
