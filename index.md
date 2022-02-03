@@ -51,7 +51,6 @@
     <li> Tidal constituents </li>
    </ul>
   </div> 
-  <iframe width="900" height="800" src="https://datastudio.google.com/embed/reporting/c1d00dd7-cb0e-4a2c-a114-5d16d1175a5a/page/6zXD" frameborder="0" style="border:0" allowfullscreen> </iframe>
   
   <div class="column">
    <h1> Real Time Forecast </h1>
