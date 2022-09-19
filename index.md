@@ -64,8 +64,8 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> </p>
 <div style="color:green" align="center">3 days Water level timeseries forecast at Hillsboro Inlet (left) and New River (right).</div>      
-<a href="waterlevel_lobo.jpg"> <img src="waterlevel_hillsboroinlet.jpg" width="400"> </a>
-<a href="waterlevel_indialantic.jpg"> <img src="waterlevel_plantriver.jpg" width="400"> </a>
+<a href="waterlevel_hillsboroinlet.jpg"> <img src="waterlevel_hillsboroinlet.jpg" width="400"> </a>
+<a href="waterlevel_plantriver.jpg"> <img src="waterlevel_plantriver.jpg" width="400"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Timeseries forecast of surface current at New River (left) and LOBO station (right) </div>
