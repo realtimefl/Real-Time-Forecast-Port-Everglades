@@ -71,25 +71,23 @@ Timeseries forecast for the following stations.
 <a href="waterlevel_hillsboroinlet.jpg"> <img src="waterlevel_hillsboroinlet.jpg" width="410"> </a>
 
 
-<div style="color:green" align="center">Salinity timeseries forecast at (A)Port Everglades Inlet (left) and (B)South Port Everglades (right) </div>
+<div style="color:green" align="center">Salinity, Temperature timeseries forecast at (A)Port Everglades Inlet (left) and (B)South Port Everglades (right) </div>
 <a href="salinity_evergladesinlet.jpg"><img src="salinity_evergladesinlet.jpg" width="410" align="left"> </a><a href="salinity_porteverglades.jpg"><img src="salinity_porteverglades.jpg" width="410" align="justify"></a>
 
 <p> </p>
-<div style="color:green" align="center"> Slainity timeseries forecast at (C)New River (left) and (D)Hillsboro Inlet (right).</div>      
+<div style="color:green" align="center"> Slainity, Temperature timeseries forecast at (C)New River (left) and (D)Hillsboro Inlet (right).</div>      
 <a href="salinity_plantriver.jpg"> <img src="salinity_plantriver.jpg" width="410"> </a>
 <a href="salinity_hillsboroinlet.jpg"> <img src="salinity_hillsboroinlet.jpg" width="410"> </a>
 
 
+<div style="color:green" align="center">Surface current timeseries forecast at (A)Port Everglades Inlet (left) and (B)South Port Everglades (right) </div>
+<a href="salinity_evergladesinlet.jpg"><img src="salinity_evergladesinlet.jpg" width="410" align="left"> </a><a href="salinity_porteverglades.jpg"><img src="salinity_porteverglades.jpg" width="410" align="justify"></a>
 
 <p> </p>
-<div style="color:green" align="center">Timeseries forecast of surface current at New River (left) and LOBO station (right) </div>
-<a href="uvel_inlet.jpg"> <img src="uvel_inlet.jpg" width="410" align="left"> </a>
-<a href="uvel_lobo.jpg"> <img src="uvel_lobo.jpg"  width="410" align="justify">  </a>
+<div style="color:green" align="center"> Surface current timeseries forecast at (C)New River (left) and (D)Hillsboro Inlet (right).</div>      
+<a href="salinity_plantriver.jpg"> <img src="salinity_plantriver.jpg" width="410"> </a>
+<a href="salinity_hillsboroinlet.jpg"> <img src="salinity_hillsboroinlet.jpg" width="410"> </a>
 
-<p> </p>
-<div style="color:green" align="center">3 days forecast of surface salinity and temperature at LOBO station (left) and Sebastian Inlet (right) </div>      
-<a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="410"> </a>
-<a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="410"> </a>
 
 
 <p> </p>
