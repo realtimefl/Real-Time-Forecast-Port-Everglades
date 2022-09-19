@@ -37,9 +37,6 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <h1> Real Time Forecast</h1>
 <h3> Parameters Predicted </h3>
-  
-<iframe width="850" height="800" src="https://datastudio.google.com/embed/reporting/ba3e86f3-36b1-4089-8d6f-1208d1dcef42/page/FNasC" frameborder="0" style="border:0" allowfullscreen></iframe>
-  
 <ul>
     <li>Water level</li>
     <li> Salinity</li>
@@ -49,6 +46,10 @@ Open boundary conditions for wave model have been derived from global wave model
     <li> Wave Direction</li>
     <li> Peak Period</li>
 </ul>
+  
+<iframe width="850" height="800" src="https://datastudio.google.com/embed/reporting/ba3e86f3-36b1-4089-8d6f-1208d1dcef42/page/FNasC" frameborder="0" style="border:0" allowfullscreen></iframe>
+  
+
 <strong>Click</strong> on station names for timeseries forecast. 
 <img src="google_earth.JPG" width="620" alt="alttext" usemap="#mapname">
 <map name="mapname">
