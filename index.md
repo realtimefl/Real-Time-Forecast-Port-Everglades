@@ -6,8 +6,8 @@
 <p> We have developed numerical model using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, a 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology, and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 9 m in the inlet to 385 m in the coastal area and with 5 sigma layers.  The grid represents coastline from Hillsboro Inlet to South Lake in Hollywood Beach. </p>
 
 <div style="color:green" align="center">Left: Model domain (Red rectangular box). Right: Zoomed model domain in the Sebastian Inlet. (Google Earth) </div>      
-<a href="gmap4.JPG"><img src="gmap4.JPG"  width="300" height="800" align="justify"> </a>
-<a href="c24.JPG"><img src="c24.JPG" width="300" height="800" align="justify"> </a>
+<a href="gmap4.JPG"><img src="gmap4.JPG"  width="300" height="600" align="justify"> </a>
+<a href="c24.JPG"><img src="c24.JPG" width="300" height="600" align="justify"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Sebastian Inlet area </div>      
@@ -19,8 +19,8 @@
 Open boundary conditions for wave model have been derived from global wave model <a href="https://polar.ncep.noaa.gov/waves/ensemble/download.shtml?">WavewatchIII</a>. Significant wave height, peak period, wave direction and direction spreading data were derived from WavewatchIII. </p>
 
 <div style="color:green" align="center">Temperature and salinity profile at East1 boundary node </div>      
-<a href="Sal_tem_2018_east1a.jpg"> <img src="Sal_tem_2018_east1a.jpg" width="345"  align="left"> </a>  
-<a href="boundary node.jpg"> <img src="boundary node.jpg" width="250" align="justify">  </a>  
+<a href="Sal_tem_2018_east1a.jpg"> <img src="Sal_tem_2018_east1a.jpg" width="345" height="200" align="left"> </a>  
+<a href="boundary node.jpg"> <img src="boundary node.jpg" width="250" height="200" align="justify">  </a>  
 
 <h1>Model Validation</h1> 
   
