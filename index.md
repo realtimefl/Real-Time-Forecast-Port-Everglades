@@ -51,7 +51,7 @@ Open boundary conditions for wave model have been derived from global wave model
 </ul> 
 
 
-<img src="gmap4.JPG" width="800" height="600" alt="alttext" usemap="#mapname">
+<img src="gmap4.JPG" width="600" height="600" alt="alttext" usemap="#mapname">
 <map name="mapname">
     <area shape="rect" coords="202,586,228,635" href="all_porteverglades.jpg" alt="alttext">
     <area shape="rect" coords="233,536,263,591" href="all_evergladesinlet.jpg" alt="alttext">
