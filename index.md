@@ -46,8 +46,10 @@ Open boundary conditions for wave model have been derived from global wave model
 <iframe width="850" height="700" src="https://datastudio.google.com/embed/reporting/ba3e86f3-36b1-4089-8d6f-1208d1dcef42/page/FNasC" frameborder="0" style="border:0" allowfullscreen></iframe>
   
 
+<p>3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet, North Jetty, Wabasso Beach, and Indialantic Beach stations. </p>
+
 <strong>Click</strong> on station names for timeseries forecast. 
-<img src="gmap4.JPG" width="620" height="600" alt="alttext" usemap="#mapname">
+<img src="gmap4.JPG" width="500" height="700" alt="alttext" usemap="#mapname">
 <map name="mapname">
     <area shape="rect" coords="280,340,240,300" href="placemark_lobo.jpg" alt="alttext">
     <area shape="rect" coords="400,310,290,290" href="placemark_inlet.jpg" alt="alttext">
@@ -57,7 +59,6 @@ Open boundary conditions for wave model have been derived from global wave model
  </map>
 
 
-<p>3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet, North Jetty, Wabasso Beach, and Indialantic Beach stations. </p>
 
 <div style="color:green" align="center">Water level timeseries forecast at Port Everglades Inlet (left) and South Port Everglades (right) for 3 days  </div>
 <a href="waterlevel_evergladesinlet.jpg"><img src="waterlevel_evergladesinlet.jpg" width="400" align="left"> </a><a href="waterlevel_porteverglades.jpg"><img src="waterlevel_porteverglades.jpg" width="400" align="justify"></a>
