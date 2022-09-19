@@ -72,8 +72,8 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> </p>
 <div style="color:green" align="center">Timeseries forecast of surface current at Sebastian Inlet (left) and LOBO station (right) </div>
-<a href="uvel_inlet.jpg"> <img src="uvel_inlet.jpg" width="500" align="left"> </a>
-<a href="uvel_lobo.jpg"> <img src="uvel_lobo.jpg"  width="500" align="justify">  </a>
+<a href="uvel_inlet.jpg"> <img src="uvel_inlet.jpg" width="400" align="left"> </a>
+<a href="uvel_lobo.jpg"> <img src="uvel_lobo.jpg"  width="400" align="justify">  </a>
 
 <p> </p>
 <div style="color:green" align="center">3 days forecast of surface salinity and temperature at LOBO station (left) and Sebastian Inlet (right) </div>      
