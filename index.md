@@ -53,7 +53,7 @@ Timeseries forecast for the following stations.
 </ul> 
 <img src="gmap4.JPG" width="500" height="600" alt="alttext" usemap="#mapname">
 <map name="mapname">
-    <area shape="rect" coords="280,340,240,300" href="placemark_lobo.jpg" alt="alttext">
+    <area shape="rect" coords="280,340,240,300" href="placemarks_lobos.jpg" alt="alttext">
     <area shape="rect" coords="400,310,290,290" href="placemark_inlet.jpg" alt="alttext">
     <area shape="rect" coords="255,270,340,240" href="placemark_jetty.jpg" alt="alttext">
     <area shape="rect" coords="250,40,180,15" href="placemark_indialantic.jpg" alt="alttext">
