@@ -49,14 +49,16 @@ Open boundary conditions for wave model have been derived from global wave model
  <li> New River(C) </li>
  <li> Hillsboro inlet (D)</li> 
 </ul> 
+
+
 <img src="gmap4.JPG" width="500" height="600" alt="alttext" usemap="#mapname">
 <map name="mapname">
-    <area shape="rect" coords="280,340,240,300" href="placemarks_lobos.jpg" alt="alttext">
-    <area shape="rect" coords="400,310,290,290" href="placemark_inlet.jpg" alt="alttext">
-    <area shape="rect" coords="255,270,340,240" href="placemark_jetty.jpg" alt="alttext">
-    <area shape="rect" coords="250,40,180,15" href="placemark_indialantic.jpg" alt="alttext">
-    <area shape="rect" coords="460,450,350,420" href="placemark_wabasso.jpg" alt="alttext"> 
+    <area shape="rect" coords="202,586,228,635" href="all_porteverglades.jpg" alt="alttext">
+    <area shape="rect" coords="233,536,263,591" href="all_evergladesinlet.jpg" alt="alttext">
+    <area shape="rect" coords="191,480,217,529" href="all_plantriver.jpg" alt="alttext">
+    <area shape="rect" coords="278,2,304,51" href="all_hillsboroinlet.jpg" alt="alttext">
  </map>
+  </div> 
 
 
 
