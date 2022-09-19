@@ -83,11 +83,11 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> </p>
 <div style="color:green" align="center">Water level and Surface Current forecast map.</div>
-<a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="600"> </a>
+<a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="601"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Salinity and Surface Current forecast map.</div>
-<a href="salinity_currentmap.gif"> <img src="salinity_currentmap.gif" width="600"> </a>
+<a href="salinity_currentmap.gif"> <img src="salinity_currentmap.gif" width="601"> </a>
  
 
 <p> </p>
