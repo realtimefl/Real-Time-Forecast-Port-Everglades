@@ -47,11 +47,11 @@ Open boundary conditions for wave model have been derived from global wave model
     <li> Peak Period</li>
 </ul>
   
-<iframe width="850" height="800" src="https://datastudio.google.com/embed/reporting/ba3e86f3-36b1-4089-8d6f-1208d1dcef42/page/FNasC" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="850" height="700" src="https://datastudio.google.com/embed/reporting/ba3e86f3-36b1-4089-8d6f-1208d1dcef42/page/FNasC" frameborder="0" style="border:0" allowfullscreen></iframe>
   
 
 <strong>Click</strong> on station names for timeseries forecast. 
-<img src="google_earth.JPG" width="620" alt="alttext" usemap="#mapname">
+<img src="gmap4.JPG" width="620" alt="alttext" usemap="#mapname">
 <map name="mapname">
     <area shape="rect" coords="280,340,240,300" href="placemark_lobo.jpg" alt="alttext">
     <area shape="rect" coords="400,310,290,290" href="placemark_inlet.jpg" alt="alttext">
