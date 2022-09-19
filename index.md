@@ -6,8 +6,8 @@
 <p> We have developed numerical model using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, a 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology, and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 9 m in the inlet to 385 m in the coastal area and with 5 sigma layers.  The grid represents coastline from Hillsboro Inlet to South Lake in Hollywood Beach. </p>
 
 <div style="color:green" align="center">Left: Model domain (Red rectangular box). Right: Zoomed model domain in the Sebastian Inlet. (Google Earth) </div>      
-<a href="gmap4.JPG"><img src="gmap4.JPG"  width="300" height="601" align="justify"> </a>
-<a href="c24.JPG"><img src="c24.JPG" width="300" height="601" align="justify"> </a>
+<a href="gmap4.JPG"><img src="gmap4.JPG"  width="300" height="500" align="justify"> </a>
+<a href="c24.JPG"><img src="c24.JPG" width="300" height="500" align="justify"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Sebastian Inlet area </div>      
