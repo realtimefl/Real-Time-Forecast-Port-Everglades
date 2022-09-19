@@ -27,12 +27,13 @@ cp -r /home/admin/everglades/plot/current_hillsboroinlet.jpg  /home/admin/evergl
 cp -r /home/admin/everglades/plot/current_plantriver.jpg  /home/admin/everglades/github/PortEverglades-master
 cp -r /home/admin/everglades/plot/current_porteverglades.jpg  /home/admin/everglades/github/PortEverglades-master
 
+cp -r /home/admin/everglades/plot/all_evergladesinlet.jpg  /home/admin/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/all_hillsboroinlet.jpg  /home/admin/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/all_plantriver.jpg  /home/admin/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/all_porteverglades.jpg  /home/admin/everglades/github/PortEverglades-master
 
 cp -r /home/admin/everglades/plot/salinity_currentmap.gif  /home/admin/everglades/github/PortEverglades-master
 cp -r /home/admin/everglades/plot/waterlevel_currentmap.gif  /home/admin/everglades/github/PortEverglades-master
-
-
-
 
 
 
