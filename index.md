@@ -28,7 +28,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <div style="color:green" align="center">Water level timeseries comparison between model and measured data at Sebastian Inlet </div>      
 <a href="South Port Everglades Water Level Timeseries.jpg"> <img src="WL_PortEvGLds_mar2018.jpg" width="500" height="300"  align="left"></a>  
-<a href="waterlevel_corelation.jpg"> <img src="Corr_hycom_apr.jpg" width="350" height="300" align="justify"></a>  
+<a href="waterlevel_corelation.jpg"> <img src="Corr_hycom_apr.jpg" width="300" height="300" align="justify"></a>  
 
 
 <h1> Real Time Forecast</h1>
