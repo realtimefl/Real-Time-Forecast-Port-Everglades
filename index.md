@@ -61,7 +61,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 
 <div style="color:green" align="center">Water level timeseries forecast at Port Everglades Inlet (left) and South Port Everglades (right) for 3 days  </div>
-<a href="waterlevel_evergladesinlet.jpg"><img src="waterlevel_evergladesinlet.jpg" width="400" align="left"> </a><a href="waterlevel_porteverglades.jpg"><img src="waterlevel_porteverglades.jpg" width="400" align="justify"></a>
+<a href="waterlevel_evergladesinlet.jpg"><img src="waterlevel_evergladesinlet.jpg" width="410" align="left"> </a><a href="waterlevel_porteverglades.jpg"><img src="waterlevel_porteverglades.jpg" width="410" align="justify"></a>
 
 <p> </p>
 <div style="color:green" align="center">3 days Water level timeseries forecast at Hillsboro Inlet (left) and New River (right).</div>      
