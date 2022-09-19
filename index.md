@@ -7,7 +7,7 @@
 
 <div style="color:green" align="center">Left: Model domain (Red rectangular box). Right: Zoomed model domain in the Sebastian Inlet. (Google Earth) </div>      
 <a href="gmap4.JPG"><img src="gmap4.JPG"  width="300" align="justify"> </a>
-<a href="c24.JPG"><img src="c24.JPG" width="300" height="261" align="justify"> </a>
+<a href="c24.JPG"><img src="c24.JPG" width="300" align="justify"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Sebastian Inlet area </div>      
@@ -20,7 +20,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <div style="color:green" align="center">Temperature and salinity profile at East1 boundary node </div>      
 <a href="Sal_tem_2018_east1a.jpg"> <img src="Sal_tem_2018_east1a.jpg" width="345"  align="left"> </a>  
-<a href="boundary node.jpg"> <img src="boundary node.jpg" width="250" height="250" align="justify">  </a>  
+<a href="boundary node.jpg"> <img src="boundary node.jpg" width="250"  align="justify">  </a>  
 
 <h1>Model Validation</h1> 
   
