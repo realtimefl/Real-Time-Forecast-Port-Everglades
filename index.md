@@ -27,7 +27,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <p>Model results for water level timeseries were compared with data from buoy near Sebastian Inlet. There is a good match between model results and buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%. Salinity. temperature, and sig. wave height from simulation results were also compared with measured data. These comparisons showed good match with observed data. Following figures show these comparisons.</p>
 
 <div style="color:green" align="center">Water level timeseries comparison between model and measured data at Sebastian Inlet </div>      
-<a href="Sebastian Inlet Water Level Timeseries.jpg"> <img src="Sebastian Inlet Water Level Timeseries.jpg" width="350"  align="left"></a>  
+<a href="Sebastian Inlet Water Level Timeseries.jpg"> <img src="Sebastian Inlet Water Level Timeseries.jpg" width="450"  align="left"></a>  
 <a href="waterlevel_corelation.jpg"> <img src="waterlevel_corelation.jpg" width="250" height="190" align="justify"></a>  
 
 <p> </p>
