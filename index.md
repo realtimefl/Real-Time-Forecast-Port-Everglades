@@ -49,7 +49,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <p>3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet, North Jetty, Wabasso Beach, and Indialantic Beach stations. </p>
 
 <strong>Click</strong> on station names for timeseries forecast. 
-<img src="gmap4.JPG" width="500" height="700" alt="alttext" usemap="#mapname">
+<img src="gmap4.JPG" width="500" height="701" alt="alttext" usemap="#mapname">
 <map name="mapname">
     <area shape="rect" coords="280,340,240,300" href="placemark_lobo.jpg" alt="alttext">
     <area shape="rect" coords="400,310,290,290" href="placemark_inlet.jpg" alt="alttext">
@@ -85,7 +85,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> </p>
 <div style="color:green" align="center">Salinity and Surface Current forecast map.</div>
-<a href="salinity_currentmap.gif"> <img src="salinity_currentmap.gif" width="850"> </a>
+<a href="salinity_currentmap.gif"> <img src="salinity_currentmap.gif" width="900"> </a>
  
 
 <p> </p>
