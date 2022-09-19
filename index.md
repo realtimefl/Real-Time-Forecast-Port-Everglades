@@ -61,12 +61,12 @@ Open boundary conditions for wave model have been derived from global wave model
 
 
 <div style="color:green" align="center">Water level timeseries forecast at Port Everglades Inlet (left) and South Port Everglades (right) for 3 days  </div>
-<a href="waterlevel_evergladesinlet.jpg"><img src="waterlevel_evergladesinlet.jpg" width="400" align="left"> </a><a href="waterlevel_porteverglades.jpg"><img src="waterlevel_porteverglades.jpg" width="400" align="justify"></a>
+<a href="waterlevel_evergladesinlet.jpg"><img src="waterlevel_evergladesinlet.jpg" width="420" align="left"> </a><a href="waterlevel_porteverglades.jpg"><img src="waterlevel_porteverglades.jpg" width="400" align="justify"></a>
 
 <p> </p>
 <div style="color:green" align="center">3 days Water level timeseries forecast at Hillsboro Inlet (left) and New River (right).</div>      
 <a href="waterlevel_hillsboroinlet.jpg"> <img src="waterlevel_hillsboroinlet.jpg" width="400"> </a>
-<a href="waterlevel_plantriver.jpg"> <img src="waterlevel_plantriver.jpg" width="400"> </a>
+<a href="waterlevel_plantriver.jpg"> <img src="waterlevel_plantriver.jpg" width="420"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Timeseries forecast of surface current at New River (left) and LOBO station (right) </div>
