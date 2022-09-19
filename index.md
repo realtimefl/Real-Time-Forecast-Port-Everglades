@@ -60,7 +60,7 @@ Open boundary conditions for wave model have been derived from global wave model
  </map>
   
 
-
+<p> </p>
 
 <div style="color:green" align="center">Water level timeseries forecast at (A)Port Everglades Inlet on left and (B)South Port Everglades on right </div>
 <a href="waterlevel_evergladesinlet.jpg"><img src="waterlevel_evergladesinlet.jpg" width="410" align="left"> </a><a href="waterlevel_porteverglades.jpg"><img src="waterlevel_porteverglades.jpg" width="410" align="justify"></a>
