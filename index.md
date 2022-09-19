@@ -28,7 +28,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <div style="color:green" align="center">Water level timeseries comparison between model and measured data at Sebastian Inlet </div>      
 <a href="Sebastian Inlet Water Level Timeseries.jpg"> <img src="Sebastian Inlet Water Level Timeseries.jpg" width="450"  align="left"></a>  
-<a href="waterlevel_corelation.jpg"> <img src="waterlevel_corelation.jpg" width="250" height="190" align="justify"></a>  
+<a href="waterlevel_corelation.jpg"> <img src="waterlevel_corelation.jpg" width="350" height="190" align="justify"></a>  
 
 <p> </p>
 <div style="color:green" align="center">Temperature (left) and Sig. wave height (right) timeseries comparison respectively at LOBO and Sebastian Inlet stations </div>      
