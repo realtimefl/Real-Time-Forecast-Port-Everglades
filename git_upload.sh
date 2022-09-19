@@ -13,14 +13,28 @@ git push -u origin master
 echo copying files
 
 cp -r /home/admin/everglades/plot/waterlevel_evergladesinlet.jpg  /home/admin/everglades/github/PortEverglades-master
-
 cp -r /home/admin/everglades/plot/waterlevel_hillsboroinlet.jpg  /home/admin/everglades/github/PortEverglades-master
-
 cp -r /home/admin/everglades/plot/waterlevel_plantriver.jpg  /home/admin/everglades/github/PortEverglades-master
-
 cp -r /home/admin/everglades/plot/waterlevel_porteverglades.jpg  /home/admin/everglades/github/PortEverglades-master
 
+cp -r /home/admin/everglades/plot/salinity_evergladesinlet.jpg  /home/admin/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/salinity_hillsboroinlet.jpg  /home/admin/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/salinity_plantriver.jpg  /home/admin/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/salinity_porteverglades.jpg  /home/admin/everglades/github/PortEverglades-master
+
+cp -r /home/admin/everglades/plot/current_evergladesinlet.jpg  /home/admin/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/current_hillsboroinlet.jpg  /home/admin/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/current_plantriver.jpg  /home/admin/everglades/github/PortEverglades-master
+cp -r /home/admin/everglades/plot/current_porteverglades.jpg  /home/admin/everglades/github/PortEverglades-master
+
+
+cp -r /home/admin/everglades/plot/salinity_currentmap.gif  /home/admin/everglades/github/PortEverglades-master
 cp -r /home/admin/everglades/plot/waterlevel_currentmap.gif  /home/admin/everglades/github/PortEverglades-master
+
+
+
+
+
 
 echo updating github
 
