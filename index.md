@@ -62,11 +62,11 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> </p>
 
-<div style="color:green" align="center">Water level timeseries forecast at (A)Port Everglades Inlet on left and (B)South Port Everglades on right </div>
+<div style="color:green" align="center">Waterlevel timeseries forecast at (A)Port Everglades Inlet on left and (B)South Port Everglades on right </div>
 <a href="waterlevel_evergladesinlet.jpg"><img src="waterlevel_evergladesinlet.jpg" width="410" align="left"> </a><a href="waterlevel_porteverglades.jpg"><img src="waterlevel_porteverglades.jpg" width="410" align="justify"></a>
 
 <p> </p>
-<div style="color:green" align="center">Water level timeseries forecast at (C)New River on left and (D)Hillsboro Inlet on right </div>      
+<div style="color:green" align="center">Waterlevel timeseries forecast at (C)New River on left and (D)Hillsboro Inlet on right </div>      
 <a href="waterlevel_plantriver.jpg"> <img src="waterlevel_plantriver.jpg" width="410"> </a>
 <a href="waterlevel_hillsboroinlet.jpg"> <img src="waterlevel_hillsboroinlet.jpg" width="410"> </a>
 
