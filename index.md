@@ -62,29 +62,29 @@ Timeseries forecast for the following stations.
 
 
 
-<div style="color:green" align="center">Water level timeseries forecast at (A)Port Everglades Inlet (left) and (B)South Port Everglades (right)  </div>
+<div style="color:green" align="center">Water level timeseries forecast at (A)Port Everglades Inlet on left and (B)South Port Everglades on right </div>
 <a href="waterlevel_evergladesinlet.jpg"><img src="waterlevel_evergladesinlet.jpg" width="410" align="left"> </a><a href="waterlevel_porteverglades.jpg"><img src="waterlevel_porteverglades.jpg" width="410" align="justify"></a>
 
 <p> </p>
-<div style="color:green" align="center">Water level timeseries forecast at (C)New River (left) and (D)Hillsboro Inlet (right).</div>      
+<div style="color:green" align="center">Water level timeseries forecast at (C)New River on left and (D)Hillsboro Inlet on right </div>      
 <a href="waterlevel_plantriver.jpg"> <img src="waterlevel_plantriver.jpg" width="410"> </a>
 <a href="waterlevel_hillsboroinlet.jpg"> <img src="waterlevel_hillsboroinlet.jpg" width="410"> </a>
 
 
-<div style="color:green" align="center">Salinity, Temperature timeseries forecast at (A)Port Everglades Inlet (left) and (B)South Port Everglades (right) </div>
+<div style="color:green" align="center">Salinity, Temperature timeseries forecast at (A)Port Everglades Inlet on left and (B)South Port Everglades on right </div>
 <a href="salinity_evergladesinlet.jpg"><img src="salinity_evergladesinlet.jpg" width="410" align="left"> </a><a href="salinity_porteverglades.jpg"><img src="salinity_porteverglades.jpg" width="410" align="justify"></a>
 
 <p> </p>
-<div style="color:green" align="center"> Slainity, Temperature timeseries forecast at (C)New River (left) and (D)Hillsboro Inlet (right).</div>      
+<div style="color:green" align="center"> Slainity, Temperature timeseries forecast at (C)New River on left and (D)Hillsboro Inlet on right </div>      
 <a href="salinity_plantriver.jpg"> <img src="salinity_plantriver.jpg" width="410"> </a>
 <a href="salinity_hillsboroinlet.jpg"> <img src="salinity_hillsboroinlet.jpg" width="410"> </a>
 
 
-<div style="color:green" align="center">Surface current timeseries forecast at (A)Port Everglades Inlet (left) and (B)South Port Everglades (right) </div>
+<div style="color:green" align="center">Surface current timeseries forecast at (A)Port Everglades Inlet on left and (B)South Port Everglades on right </div>
 <a href="current_evergladesinlet.jpg"><img src="current_evergladesinlet.jpg" width="410" align="left"> </a><a href="current_porteverglades.jpg"><img src="current_porteverglades.jpg" width="410" align="justify"></a>
 
 <p> </p>
-<div style="color:green" align="center"> Surface current timeseries forecast at (C)New River (left) and (D)Hillsboro Inlet (right).</div>      
+<div style="color:green" align="center"> Surface current timeseries forecast at (C)New River on left and (D)Hillsboro Inlet o right.</div>      
 <a href="current_plantriver.jpg"> <img src="current_plantriver.jpg" width="410"> </a>
 <a href="current_hillsboroinlet.jpg"> <img src="current_hillsboroinlet.jpg" width="410"> </a>
 
