@@ -63,12 +63,12 @@ Open boundary conditions for wave model have been derived from global wave model
 <p>3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet, North Jetty, Wabasso Beach, and Indialantic Beach stations. </p>
 
 <div style="color:green" align="center">Water level timeseries forecast at Sebastian Inlet (left) and North Jetty (right) for 3 days  </div>
-<a href="waterlevel_sebastian_inlet.jpg"><img src="waterlevel_sebastian_inlet.jpg" width="300" align="left"> </a><a href="waterlevel_northjetty.jpg"><img src="waterlevel_northjetty.jpg" width="300" align="justify"></a>
+<a href="waterlevel_sebastian_inlet.jpg"><img src="waterlevel_sebastian_inlet.jpg" width="400" align="left"> </a><a href="waterlevel_northjetty.jpg"><img src="waterlevel_northjetty.jpg" width="400" align="justify"></a>
 
 <p> </p>
 <div style="color:green" align="center">3 days Water level timeseries forecast at LOBO station (left) and Indialantic Beach (right).</div>      
-<a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="470"> </a>
-<a href="waterlevel_indialantic.jpg"> <img src="waterlevel_indialantic.jpg" width="470"> </a>
+<a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="400"> </a>
+<a href="waterlevel_indialantic.jpg"> <img src="waterlevel_indialantic.jpg" width="400"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Timeseries forecast of surface current at Sebastian Inlet (left) and LOBO station (right) </div>
@@ -77,8 +77,8 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> </p>
 <div style="color:green" align="center">3 days forecast of surface salinity and temperature at LOBO station (left) and Sebastian Inlet (right) </div>      
-<a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="440"> </a>
-<a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="440"> </a>
+<a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="420"> </a>
+<a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="420"> </a>
 
 
 <p> </p>
