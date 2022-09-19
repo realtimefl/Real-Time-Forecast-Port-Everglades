@@ -77,8 +77,8 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> </p>
 <div style="color:green" align="center">3 days forecast of surface salinity and temperature at LOBO station (left) and Sebastian Inlet (right) </div>      
-<a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="450"> </a>
-<a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="450"> </a>
+<a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="445"> </a>
+<a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="445"> </a>
 
 
 <p> </p>
