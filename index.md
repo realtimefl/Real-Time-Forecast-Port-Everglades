@@ -42,9 +42,7 @@ Open boundary conditions for wave model have been derived from global wave model
   
 
 
-<p>3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet, North Jetty, Wabasso Beach, and Indialantic Beach stations. </p>
-
-Timeseries forecast for the following stations. 
+3 days of timeseries forecast of waterlevel, salinity, temperature, surface current for the following stations has been provided. 
 <ul>
  <li> South Port Everglades(A)</li>
  <li> Port Everglades Inlet(B)</li>
