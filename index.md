@@ -38,9 +38,6 @@ Open boundary conditions for wave model have been derived from global wave model
     <li> Salinity</li>
     <li> Temperature </li>
     <li> Currents </li>
-    <li> Sig Wave Height</li>
-    <li> Wave Direction</li>
-    <li> Peak Period</li>
 </ul>
   
 <iframe width="800" height="700" src="https://datastudio.google.com/embed/reporting/ba3e86f3-36b1-4089-8d6f-1208d1dcef42/page/FNasC" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -49,6 +46,12 @@ Open boundary conditions for wave model have been derived from global wave model
 <p>3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet, North Jetty, Wabasso Beach, and Indialantic Beach stations. </p>
 
 <strong>Click</strong> on station names for timeseries forecast. 
+<ul>
+ <li> South Port Everglades(A)</li>
+ <li> Port Everglades Inlet(B)</li>
+ <li> New River(C) </li>
+ <li> Hillsboro inlet (D)</li> 
+</ul> 
 <img src="gmap4.JPG" width="500" height="600" alt="alttext" usemap="#mapname">
 <map name="mapname">
     <area shape="rect" coords="280,340,240,300" href="placemark_lobo.jpg" alt="alttext">
@@ -65,23 +68,23 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> </p>
 <div style="color:green" align="center">3 days Water level timeseries forecast at Hillsboro Inlet (left) and New River (right).</div>      
-<a href="waterlevel_hillsboroinlet.jpg"> <img src="waterlevel_hillsboroinlet.jpg" width="400"> </a>
-<a href="waterlevel_plantriver.jpg"> <img src="waterlevel_plantriver.jpg" width="400"> </a>
+<a href="waterlevel_hillsboroinlet.jpg"> <img src="waterlevel_hillsboroinlet.jpg" width="410"> </a>
+<a href="waterlevel_plantriver.jpg"> <img src="waterlevel_plantriver.jpg" width="410"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Timeseries forecast of surface current at New River (left) and LOBO station (right) </div>
-<a href="uvel_inlet.jpg"> <img src="uvel_inlet.jpg" width="400" align="left"> </a>
-<a href="uvel_lobo.jpg"> <img src="uvel_lobo.jpg"  width="400" align="justify">  </a>
+<a href="uvel_inlet.jpg"> <img src="uvel_inlet.jpg" width="410" align="left"> </a>
+<a href="uvel_lobo.jpg"> <img src="uvel_lobo.jpg"  width="410" align="justify">  </a>
 
 <p> </p>
 <div style="color:green" align="center">3 days forecast of surface salinity and temperature at LOBO station (left) and Sebastian Inlet (right) </div>      
-<a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="400"> </a>
-<a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="400"> </a>
+<a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="410"> </a>
+<a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="410"> </a>
 
 
 <p> </p>
 <div style="color:green" align="center">Water level and Surface Current forecast map.</div>
-<a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="850"> </a>
+<a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="900"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Salinity and Surface Current forecast map.</div>
