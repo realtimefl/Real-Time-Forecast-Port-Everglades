@@ -117,7 +117,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> Dept of Ocean Engineering and Marine Sciences </p>
 
-<p><img src="Primary_horiz_tagline_crimson.png" width="300" align="justify"></p>
+<p><img src="Primary_horiz_tagline_crimson.png" width="310" align="justify"></p>
 
 </body>
 </html>
