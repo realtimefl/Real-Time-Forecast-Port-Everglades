@@ -46,15 +46,6 @@ Open boundary conditions for wave model have been derived from global wave model
 
 
 <div class="row">
- <div class="column" > 
-  <ul>
-   <li> South Port Everglades(A)</li>
-   <li> Port Everglades Inlet(B)</li>
-   <li> New River(C) </li>
-   <li> Hillsboro inlet(D)</li> 
-  </ul> 
- </div>
-
 
  <div class="column">   
   <img src="gmap4.JPG" width="imgwidth" height="600" alt="alttext" usemap="#mapname">
@@ -65,6 +56,16 @@ Open boundary conditions for wave model have been derived from global wave model
     <area shape="rect" coords="170,2,200,40" href="all_hillsboroinlet.jpg" alt="alttext">
    </map>
  </div>
+
+ <div class="column" > 
+  <ul>
+   <li> South Port Everglades(A)</li>
+   <li> Port Everglades Inlet(B)</li>
+   <li> New River(C) </li>
+   <li> Hillsboro inlet(D)</li> 
+  </ul> 
+ </div>
+
 </div>
 
 
@@ -100,7 +101,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> </p>
 <div style="color:green" align="center">Water level and Surface Current forecast map</div>
-<a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="901"> </a>
+<a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="900"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Salinity and Surface Current forecast map</div>
@@ -116,7 +117,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> Dept of Ocean Engineering and Marine Sciences </p>
 
-<p><img src="Primary_horiz_tagline_crimson.png" width="400" align="justify"></p>
+<p><img src="Primary_horiz_tagline_crimson.png" width="300" align="justify"></p>
 
 </body>
 </html>
