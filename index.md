@@ -78,7 +78,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <a href="salinity_hillsboroinlet.jpg"> <img src="salinity_hillsboroinlet.jpg" width="410"> </a>
 
 <p> </p>
-<div style="color:green" align="center">Surface current timeseries forecast at (A)Port Everglades Inlet on left and (B)South Port Everglades on right </div>
+<div style="color:green" align="center">Surface current forecast at (A)Port Everglades Inlet on left and (B)South Port Everglades on right </div>
 <a href="current_evergladesinlet.jpg"><img src="current_evergladesinlet.jpg" width="410" align="left"> </a><a href="current_porteverglades.jpg"><img src="current_porteverglades.jpg" width="410" align="justify"></a>
 
 <p> </p>
