@@ -66,7 +66,7 @@ Open boundary conditions for wave model have been derived from global wave model
     <area shape="rect" coords="170,2,200,40" href="all_hillsboroinlet.jpg" alt="alttext">
  </map>
  </div>
-
+</div>
 
 
 
