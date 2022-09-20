@@ -46,8 +46,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 
 <div class="row">
-  <div class="column" >
-    
+ <div class="column" > 
  <ul>
  <li> South Port Everglades(A)</li>
  <li> Port Everglades Inlet(B)</li>
