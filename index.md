@@ -53,9 +53,9 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <img src="gmap4.JPG" width="imgwidth" height="600" alt="alttext" usemap="#mapname">
  <map name="mapname">
-    <area shape="rect" coords="130,380,155,420" href="all_porteverglades.jpg" alt="alttext">
-    <area shape="rect" coords="150,350,170,390" href="all_evergladesinlet.jpg" alt="alttext">
-    <area shape="rect" coords="122,310,150,345" href="all_plantriver.jpg" alt="alttext">
+    <area shape="rect" coords="120,375,145,410" href="all_porteverglades.jpg" alt="alttext">
+    <area shape="rect" coords="140,350,165,390" href="all_evergladesinlet.jpg" alt="alttext">
+    <area shape="rect" coords="115,305,140,344" href="all_plantriver.jpg" alt="alttext">
     <area shape="rect" coords="170,2,200,40" href="all_hillsboroinlet.jpg" alt="alttext">
  </map>
 
