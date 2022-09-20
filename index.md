@@ -20,7 +20,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <div style="color:green" align="center">Temperature and salinity profile at East1 boundary node </div>      
 <a href="Salinity_temp_2017_east1a.jpg"> <img src="Salinity_temp_2017_east1a.jpg" width="500" height="310" align="left"> </a>  
-<a href="boundary node.jpg"> <img src="boundary node.jpg" width="300" height="300" align="justify">  </a>  
+<a href="boundary node.jpg"> <img src="boundary node.jpg" width="300" height="310" align="justify">  </a>  
 
 <h1>Model Validation</h1> 
   
