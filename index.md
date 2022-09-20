@@ -51,13 +51,13 @@ Open boundary conditions for wave model have been derived from global wave model
    <li> South Port Everglades(A)</li>
    <li> Port Everglades Inlet(B)</li>
    <li> New River(C) </li>
-   <li> Hillsboro inlet (D)</li> 
+   <li> Hillsboro inlet(D)</li> 
   </ul> 
  </div>
 
 
- <div class="column" >   
-  <img src="gmap4.JPG" width="imgwidth" height="600" alt="alttext" usemap="#mapname">
+ <div class="column">   
+  <img src="gmap4.JPG" width="imgwidth" height="601" alt="alttext" usemap="#mapname">
    <map name="mapname">
     <area shape="rect" coords="120,375,145,410" href="all_porteverglades.jpg" alt="alttext">
     <area shape="rect" coords="145,342,167,377" href="all_evergladesinlet.jpg" alt="alttext">
