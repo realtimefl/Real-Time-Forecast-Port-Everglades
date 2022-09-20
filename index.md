@@ -19,8 +19,8 @@
 Open boundary conditions for wave model have been derived from global wave model <a href="https://polar.ncep.noaa.gov/waves/ensemble/download.shtml?">WavewatchIII</a>. Significant wave height, peak period, wave direction and direction spreading data were derived from WavewatchIII. </p>
 
 <div style="color:green" align="center">Temperature and salinity profile at East1 boundary node </div>      
-<a href="Salinity_temp_2017_east1a.jpg"> <img src="Salinity_temp_2017_east1a.jpg" width="500" height="310" align="left"> </a>  
-<a href="boundary node.jpg"> <img src="boundary node.jpg" width="300" height="310" align="justify">  </a>  
+<a href="Salinity_temp_2017_east1a.jpg"> <img src="Salinity_temp_2017_east1a.jpg" width="500" height="300" align="left"> </a>  
+<a href="boundary node.jpg"> <img src="boundary node.jpg" width="300" height="300" align="justify">  </a>  
 
 <h1>Model Validation</h1> 
   
