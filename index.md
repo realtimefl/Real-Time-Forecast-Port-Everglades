@@ -43,7 +43,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 
 3 days of timeseries forecast of waterlevel, salinity, temperature, surface current for the following stations has been provided. 
-<img src="gmap_st.png" width="imgwidth" height="600" alt="alttext" usemap="#mapname">
+<img src="gmap_st.png" width="imgwidth" height="601" alt="alttext" usemap="#mapname">
   <map name="mapname">
     <area shape="rect" coords="120,375,145,410" href="all_porteverglades.jpg" alt="alttext">
     <area shape="rect" coords="145,342,167,377" href="all_evergladesinlet.jpg" alt="alttext">
