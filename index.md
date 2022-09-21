@@ -10,13 +10,13 @@
 <a href="gmap_port.png"><img src="gmap_port.png" width="410" height="400" align="justify"> </a>
 
 <p> </p>
-<div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Sebastian Inlet area </div>      
+<div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Port Everglades </div>      
 <a href="Port Everglades Full Grid.jpg"> <img src="Port Everglades Full Grid.jpg"  width="410" align="justify">  </a>
 <a href="Zoomed Grid Port Everglades.jpg"> <img src="Zoomed Grid Port Everglades.jpg" width="410" align="justify"> </a>
 
 <h1> Offshore Boundary Conditions</h1>
 <p>The model is driven by water elevation time series that includes tides and lower frequency sea level oscillations, and meteorological forcing. Temperature, salinity and sea surface elevation along north, south and east open boundaries were derived from <a href="https://www.hycom.org/data/gomu0pt04/expt-90pt1m000">HYCOM and NCODA Gulf of Mexico 1/25° Analysis</a>. Meteorological forcing (relative humidity, air temperature, wind forcing, heat flux, evaporation and precipitation) was derived from <a href="https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam">North American Mesoscale Forecast system (NAM).</a>
-Open boundary conditions for wave model have been derived from global wave model <a href="https://polar.ncep.noaa.gov/waves/ensemble/download.shtml?">WavewatchIII</a>. Significant wave height, peak period, wave direction and direction spreading data were derived from WavewatchIII. </p>
+</p>
 
 <div style="color:green" align="center">Temperature and salinity profile at East1 boundary node </div>      
 <a href="Salinity_temp_2017_east1a.jpg"> <img src="Salinity_temp_2017_east1a.jpg" width="500" height="300" align="left"> </a>  
@@ -26,7 +26,7 @@ Open boundary conditions for wave model have been derived from global wave model
   
 <p>Model results for water level timeseries were compared with data from buoy near Port Everglades. There is a good match between model results and buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%. Salinity. temperature, and currents from simulation results were also compared with measured data. These comparisons showed good match with observed data. Following figures show these comparisons.</p>
 
-<div style="color:green" align="center">Water level timeseries comparison between model and measured data at Sebastian Inlet </div>      
+<div style="color:green" align="center">Water level timeseries comparison between model and measured data at Port Everglades </div>      
 <a href="WL_PortEvGLds_mar2018.jpg"> <img src="WL_PortEvGLds_mar2018.jpg" width="410" height="350"  align="left"></a>  
 <a href="Corr_hycom_apr.jpg"> <img src="Corr_hycom_apr.jpg" width="410" height="350" align="justify"></a>  
 
