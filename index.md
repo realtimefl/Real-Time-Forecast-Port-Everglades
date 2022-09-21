@@ -11,8 +11,8 @@
 
 <p> </p>
 <div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Port Everglades </div>      
-<a href="Port Everglades Full Grid.jpg"> <img src="Port Everglades Full Grid.jpg"  width="415" align="justify">  </a>
-<a href="Zoomed Grid Port Everglades.jpg"> <img src="Zoomed Grid Port Everglades.jpg" width="410" align="justify"> </a>
+<a href="Port Everglades Full Grid.jpg"> <img src="Port Everglades Full Grid.jpg"  width="415" align="left">  </a>
+<a href="Zoomed Grid Port Everglades.jpg"> <img src="Zoomed Grid Port Everglades.jpg" width="415" align="right"> </a>
 
 <h1> Offshore Boundary Conditions</h1>
 <p>The model is driven by water elevation time series that includes tides and lower frequency sea level oscillations, and meteorological forcing. Temperature, salinity and sea surface elevation along north, south and east open boundaries were derived from <a href="https://www.hycom.org/data/gomu0pt04/expt-90pt1m000">HYCOM and NCODA Gulf of Mexico 1/25° Analysis</a>. Meteorological forcing (relative humidity, air temperature, wind forcing, heat flux, evaporation and precipitation) was derived from <a href="https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam">North American Mesoscale Forecast system (NAM).</a>
