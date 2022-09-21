@@ -6,8 +6,8 @@
 <p> We have developed numerical model using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, a 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology, and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 9 m in the inlet to 385 m in the coastal area and with 5 sigma layers.  The grid represents coastline from Hillsboro Inlet to South Lake in Hollywood Beach. </p>
 
 <div style="color:green" align="center">Left: Model domain (Red rectangular box). Right: Zoomed model domain at Port Everglades. (Google Earth) </div>      
-<a href="gmap_florida.png"><img src="gmap_florida.png"  width="410" height="400" align="justify"> </a>
-<a href="gmap_port.png"><img src="gmap_port.png" width="410" height="400" align="justify"> </a>
+<a href="gmap_florida.png"><img src="gmap_florida.png"  width="440" height="400" align="left"> </a>
+<a href="gmap_port.png"><img src="gmap_port.png" width="440" height="400" align="right"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Port Everglades </div>      
