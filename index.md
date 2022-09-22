@@ -43,7 +43,15 @@
 
 
 3 days of timeseries forecast of waterlevel, salinity, temperature, surface current for the following stations has been provided.
-<p> </p> 
+<p> </p>
+ 
+<ul>
+ <li> South Port Everglades(A)</li>
+ <li> Port Everglades Inlet(B)</li>
+ <li> New River(C) </li>
+ <li> Hillsboro inlet (D)</li> 
+</ul> 
+
 <img src="gmap_st.png" width="imgwidth" height="601" alt="alttext" usemap="#mapname">
   <map name="mapname">
     <area shape="rect" coords="120,375,145,410" href="all_porteverglades.jpg" alt="alttext">
