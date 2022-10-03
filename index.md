@@ -11,8 +11,8 @@
 
 <p> </p>
 <div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Port Everglades </div>      
-<a href="Port Everglades Full Grid.jpg"> <img src="Port Everglades Full Grid.jpg"  width="415" align="left">  </a>
-<a href="Zoomed Grid Port Everglades.jpg"> <img src="Zoomed Grid Port Everglades.jpg" width="415" align="right"> </a>
+<a href="Port Everglades Full Grid.jpg"> <img src="Port Everglades Full Grid.jpg"  width="415" height="350" align="left">  </a>
+<a href="Zoomed Grid Port Everglades.jpg"> <img src="Zoomed Grid Port Everglades.jpg" width="415" height="350" align="right"> </a>
 
 <p> </p>
 <h1> Offshore Boundary Conditions</h1>
@@ -20,8 +20,8 @@
 </p>
 
 <div style="color:green" align="center">Temperature and salinity profile at East1 boundary node </div>      
-<a href="Salinity_temp_2017_east1a.jpg"> <img src="Salinity_temp_2018_east1a.jpg" width="500" height="300" align="left"> </a>  
-<a href="boundaries.png"> <img src="boundaries.png" width="300" height="300" align="justify">  </a>  
+<a href="Salinity_temp_2017_east1a.jpg"> <img src="Salinity_temp_2018_east1a.jpg" width="500" height="350" align="left"> </a>  
+<a href="boundaries.png"> <img src="boundaries.png" width="300" height="350" align="justify">  </a>  
 
 <h1>Model Validation</h1> 
   
