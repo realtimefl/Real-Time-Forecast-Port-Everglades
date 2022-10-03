@@ -19,7 +19,7 @@
 </p>
 
 <div style="color:green" align="center">Temperature and salinity profile at East1 boundary node </div>      
-<a href="Salinity_temp_2017_east1a.jpg"> <img src="Salinity_temp_2017_east1a.jpg" width="500" height="300" align="left"> </a>  
+<a href="Salinity_temp_2017_east1a.jpg"> <img src="Salinity_temp_2018_east1a.jpg" width="500" height="300" align="left"> </a>  
 <a href="boundaries.png"> <img src="boundaries.png" width="300" height="300" align="justify">  </a>  
 
 <h1>Model Validation</h1> 
@@ -27,8 +27,8 @@
 <p>Model results for water level timeseries were compared with data from buoy near Port Everglades. There is a good match between model results and buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%. Salinity. temperature, and currents from simulation results were also compared with measured data. These comparisons showed good match with observed data. Following figures show these comparisons.</p>
 
 <div style="color:green" align="center">Water level timeseries comparison between model and measured data at Port Everglades </div>      
-<a href="WL_PortEvGLds_mar2018.jpg"> <img src="WL_PortEvGLds_mar2018.jpg" width="410" height="350"  align="left"></a>  
-<a href="Corr_hycom_apr.jpg"> <img src="Corr_hycom_apr.jpg" width="410" height="350" align="justify"></a>  
+<a href="wl_noaa_vs_model_2018.jpg"> <img src="wl_noaa_vs_model_2018.jpg" width="410" height="350"  align="left"></a>  
+<a href="correlation_model vs noaa_2018.JPG"> <img src="correlation_model vs noaa_2018.JPG" width="410" height="350" align="justify"></a>  
 
 
 <h1> Real Time Forecast</h1>
