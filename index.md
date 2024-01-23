@@ -23,7 +23,7 @@
 
 <div style="color:green" align="center">Temperature and salinity profile at East1 boundary node </div>      
 <a href="Salinity_temp_2017_east1a.jpg"> <img src="Salinity_temp_2018_east1a.jpg" width="500" height="350" align="left"> </a>  
-<a href="boundaries.png"> <img src="boundaries.png" width="300" height="350" align="justify">  </a>  
+<a href="hycom_east1a_elev2018.tiff"> <img src="boundaries.png" width="300" height="350" align="justify">  </a>  
 
 <h1>Model Validation</h1> 
   
