@@ -9,12 +9,11 @@
 <a href="gmap_florida.png"><img src="gmap_florida.png"  width="415" height="400" align="left"> </a>
 <a href="gmap_port.png"><img src="gmap_port.png" width="415" height="400" align="right"> </a>
 
-<p> </p>
-<p> 
+<p> </p> 
 <div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Port Everglades </div>      
 <a href="grid_full_PortEverglades.jpg"> <img src="grid_full_PortEverglades.jpg"  width="415" height="350" align="left">  </a>
 <a href="zoomed_grid.jpg"> <img src="zoomed_grid.jpg" width="415" height="350" align="right"> </a>
-</p>
+
 
 <p> </p>
 <h1> Offshore Boundary Conditions</h1>
