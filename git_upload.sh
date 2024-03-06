@@ -6,8 +6,6 @@ rm waterlevel_evergladesinlet.jpg waterlevel_hillsboroinlet.jpg waterlevel_plant
 
 git add .
 git commit -m "update commit"
-
-
 git push -u origin master
 
 # use 'git pull origin master' command if 'error: failed to push some refs to ... ' appears
