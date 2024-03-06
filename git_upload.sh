@@ -6,6 +6,10 @@ rm waterlevel_evergladesinlet.jpg waterlevel_hillsboroinlet.jpg waterlevel_plant
 
 git add .
 git commit -m "update commit"
+
+git config --global user.name "mhabib2014@my.fit.edu"
+git config --global user.password "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"
+
 git push -u origin master
 
 # use 'git pull origin master' command if 'error: failed to push some refs to ... ' appears
