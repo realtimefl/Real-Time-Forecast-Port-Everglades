@@ -106,7 +106,7 @@
 <p> </p>
 <h3> Developed by </h3>
 
-<p> Ahsan Habib, PhD Candidate </p>
+<p> Ahsan Habib, PhD </p>
 
 <p> <a href="https://www.fit.edu/faculty-profiles/z/zarillo-gary/">Dr. Gary Zarillo, PhD </a> </p>
 
